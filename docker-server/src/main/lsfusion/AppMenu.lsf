@@ -1,0 +1,7 @@
+MODULE AppMenu;
+
+NAVIGATOR {
+    NEW FOLDER catalogs 'Справочники' WINDOW toolbar;
+    NEW FOLDER testing 'Тестирование';
+    NEW FOLDER reports 'Отчеты';
+}

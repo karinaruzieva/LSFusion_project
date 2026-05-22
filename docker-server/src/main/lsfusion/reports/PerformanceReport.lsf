@@ -1,0 +1,27 @@
+MODULE PerformanceReport;
+
+REQUIRE AppMenu, TestingSession;
+
+resultColor (TestingSession ts) = 
+    CASE
+        WHEN score(ts) >= 80 THEN RGB(200, 230, 201)
+        WHEN score(ts) >= 60 THEN RGB(255, 249, 196)
+        WHEN ts IS TestingSession THEN RGB(255, 205, 210)
+    ;
+
+FORM performanceReport 'Отчет об успеваемости'
+    OBJECTS ts = TestingSession
+    PROPERTIES(ts) READONLY 
+        studentName, 
+        disciplineName, 
+        dateTime, 
+        score BACKGROUND resultColor(ts) 
+
+    ORDERS dateTime(ts) DESC
+;
+
+NAVIGATOR {
+    reports {
+        NEW FORM performanceReport;
+    }
+}

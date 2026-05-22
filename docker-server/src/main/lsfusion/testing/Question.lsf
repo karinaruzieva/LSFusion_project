@@ -1,0 +1,73 @@
+MODULE Question;
+
+REQUIRE AppMenu, Discipline;
+
+CLASS Question 'Вопрос';
+
+discipline 'Дисциплина' = DATA Discipline (Question) NONULL;
+text 'Текст вопроса' = DATA STRING[500] (Question) NONULL;
+correctOption 'Правильный ответ (1-5)' = DATA INTEGER (Question) NONULL;
+
+disciplineName 'Дисциплина' (Question q) = name(discipline(q));
+disciplineCode 'Код дисциплины' (Question q) = disciplineCode(discipline(q));
+
+CLASS AnswerOption 'Вариант ответа';
+
+question 'Вопрос' = DATA Question (AnswerOption) NONULL DELETE;
+optionNumber 'Номер' = DATA INTEGER (AnswerOption) NONULL;
+text 'Текст ответа' = DATA STRING[200] (AnswerOption) NONULL;
+
+addAnswerOption 'Добавить вариант ответа' (Question q) {
+    NEW ao = AnswerOption {
+        question(ao) <- q;
+        optionNumber(ao) <- 1;
+    };
+}
+
+FORM view 'Вопросы'
+    OBJECTS q = Question
+    PROPERTIES(q) disciplineName, text, correctOption
+    PROPERTIES(q) NEWSESSION NEW, EDIT, DELETE
+    PROPERTIES(q) addAnswerOption
+
+    OBJECTS ao = AnswerOption
+    PROPERTIES(ao) optionNumber, text
+    FILTERS question(ao) == q
+    PROPERTIES(ao) NEWSESSION EDIT, DELETE
+;
+
+FORM edit 'Вопрос'
+    OBJECTS q = Question PANEL
+    PROPERTIES(q) discipline, text, correctOption
+
+    OBJECTS ao = AnswerOption
+    PROPERTIES(ao) optionNumber, text
+    FILTERS question(ao) == q
+    PROPERTIES(ao) NEWSESSION EDIT, DELETE
+
+    PROPERTIES(q) addAnswerOption
+    EDIT Question OBJECT q
+;
+
+EXTEND FORM view
+    EDIT Question OBJECT q
+;
+
+FORM Question 'Вопросы (выбор)'
+    OBJECTS q = Question
+    PROPERTIES(q) READONLY text, disciplineName
+    
+    LIST Question OBJECT q
+;
+
+CONSTRAINT correctOption(Question q) < 1 OR correctOption(q) > 5
+    MESSAGE 'Номер правильного ответа должен быть от 1 до 5';
+
+CONSTRAINT optionNumber(AnswerOption ao) < 1 OR optionNumber(ao) > 5
+    MESSAGE 'Номер варианта ответа должен быть от 1 до 5';
+
+NAVIGATOR {
+    testing {
+        NEW FORM view;
+    }
+}

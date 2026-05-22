@@ -1,0 +1,42 @@
+MODULE Student;
+
+REQUIRE AppMenu;
+
+CLASS Student 'Студент';
+
+studentCode 'Код' = DATA STRING[20] (Student) NONULL;
+fullName 'ФИО' = DATA STRING[150] (Student) NONULL;
+groupName 'Группа' = DATA STRING[20] (Student);
+email 'E-mail' = DATA STRING[80] (Student);
+
+WHEN SET (Student s IS Student) AND NOT studentCode(s) DO
+    studentCode(s) <- 'STD';
+
+FORM view 'Студенты'
+    OBJECTS s = Student
+    PROPERTIES(s) studentCode, fullName, groupName, email
+    PROPERTIES(s) NEWSESSION NEW, EDIT, DELETE
+;
+
+FORM edit 'Студент'
+    OBJECTS s = Student PANEL
+    PROPERTIES(s) studentCode, fullName, groupName, email
+    EDIT Student OBJECT s
+;
+
+EXTEND FORM view
+    EDIT Student OBJECT s
+;
+
+FORM Student 'Студенты (выбор)'
+    OBJECTS s = Student
+    PROPERTIES(s) READONLY studentCode, fullName, groupName
+    
+    LIST Student OBJECT s // Указываем, что это форма по умолчанию для выбора
+;
+
+NAVIGATOR {
+    catalogs {
+        NEW FORM view;
+    }
+}

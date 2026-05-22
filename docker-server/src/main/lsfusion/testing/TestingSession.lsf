@@ -1,0 +1,102 @@
+MODULE TestingSession;
+
+REQUIRE AppMenu, Student, Discipline, Question, Utils;
+
+CLASS TestingSession 'Сессия тестирования';
+
+student 'Студент' = DATA Student (TestingSession) NONULL;
+discipline 'Дисциплина' = DATA Discipline (TestingSession) NONULL;
+dateTime 'Дата и время' = DATA DATETIME (TestingSession) NONULL;
+score 'Баллы (%)' = DATA INTEGER (TestingSession);
+
+studentName 'Студент' (TestingSession ts) = fullName(student(ts));
+disciplineName 'Дисциплина' (TestingSession ts) = name(discipline(ts));
+
+CLASS StudentAnswer 'Ответ студента';
+
+session 'Сессия' = DATA TestingSession (StudentAnswer) NONULL DELETE;
+question 'Вопрос' = DATA Question (StudentAnswer) NONULL;
+chosenOption 'Выбранный вариант' = DATA INTEGER (StudentAnswer);
+
+textQuestion 'Текст вопроса' (StudentAnswer a) = text(question(a));
+
+isCorrect 'Верно?' (StudentAnswer a) = chosenOption(a) == correctOption(question(a));
+
+totalAnswers 'Всего' (TestingSession ts) = GROUP SUM 1 IF session(StudentAnswer a) == ts;
+correctAnswers 'Верных' (TestingSession ts) = GROUP SUM 1 IF session(StudentAnswer a) == ts AND isCorrect(a);
+
+calculateScore 'Подсчитать результат' (TestingSession ts) {
+    IF totalAnswers(ts) > 0 THEN
+        score(ts) <- (correctAnswers(ts) * 100) / totalAnswers(ts);
+    ELSE
+        score(ts) <- 0;
+}
+
+WHEN SET(TestingSession ts IS TestingSession) AND NOT dateTime(ts) DO
+    dateTime(ts) <- currentDateTime();
+
+WHEN LOCAL CHANGED(chosenOption(StudentAnswer a)) DO {
+    FOR TestingSession ts == session(a) DO {
+        IF totalAnswers(ts) > 0 THEN
+            score(ts) <- (correctAnswers(ts) * 100) / totalAnswers(ts);
+        ELSE
+            score(ts) <- 0;
+    }
+}
+
+CONSTRAINT chosenOption(StudentAnswer a) < 1 OR chosenOption(a) > 5
+    MESSAGE 'Номер варианта должен быть в диапазоне от 1 до 5';
+
+// Форма для прохождения теста
+FORM testingSession 'Прохождение теста'
+    OBJECTS ts = TestingSession PANEL
+    PROPERTIES(ts) studentName, disciplineName, dateTime, score, totalAnswers, correctAnswers
+
+    OBJECTS a = StudentAnswer
+    PROPERTIES(a) textQuestion READONLY, chosenOption, isCorrect READONLY
+    FILTERS session(a) == ts
+    
+    OBJECTS ao = AnswerOption
+    PROPERTIES(ao) optionNumber READONLY, text READONLY
+    FILTERS question(ao) == question(a)
+
+    PROPERTIES(ts) calculateScore
+    EDIT TestingSession OBJECT ts
+;
+
+// Действие для начала теста
+startNewTest 'Начать тест' (Student s, Discipline d) {
+    NEW ts = TestingSession {
+        student(ts) <- s;
+        discipline(ts) <- d;
+        FOR discipline(Question q) == d DO {
+            NEW a = StudentAnswer {
+                session(a) <- ts;
+                question(a) <- q;
+            }
+        }
+        // ВАЖНО: здесь исправлено на OBJECTS (с буквой S на конце)
+        SHOW testingSession OBJECTS ts = ts DOCKED; 
+    }
+}
+
+FORM viewSessions 'Сессии тестирования'
+    OBJECTS ts = TestingSession
+    PROPERTIES(ts) studentName, disciplineName, dateTime, score
+    PROPERTIES(ts) NEWSESSION NEW, EDIT, DELETE
+
+    OBJECTS s = Student, d = Discipline
+    PROPERTIES(s) fullName
+    PROPERTIES(d) name
+    PROPERTIES(s, d) startNewTest
+;
+
+EXTEND FORM viewSessions
+    EDIT TestingSession OBJECT ts
+;
+
+NAVIGATOR {
+    testing {
+        NEW FORM viewSessions;
+    }
+}

@@ -1,0 +1,68 @@
+
+name: lsf
+
+services:
+
+  db:
+    image: postgres:15
+    networks:
+      - lsf-network
+    volumes:
+      - ./docker-db-pg15:/var/lib/postgresql/data
+    environment:
+      - POSTGRES_PASSWORD=11111
+      - POSTGRES_USER=postgres
+      - POSTGRES_DB=lsfusion
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 5s
+      timeout: 3s
+      retries: 20
+    env_file:
+      - app.env
+
+  server:
+    container_name: server
+    image: lsfusion/server:6.2-SNAPSHOT
+    networks:
+      - lsf-network
+    ports:
+      - "7651:7651"
+    depends_on:
+      db:
+        condition: service_healthy
+    volumes:
+      - ./docker-server:/lsfusion
+    environment:
+      - DB_SERVER=db
+      - DB_PASSWORD=11111
+      - USER_SETLANGUAGE=ru
+      - USER_SETCOUNTRY=RU
+    env_file:
+      - app.env
+    healthcheck:
+      test: ["CMD-SHELL", "nc -z 127.0.0.1 7652"]
+      interval: 5s
+      timeout: 3s
+      retries: 60
+
+  client:
+    image: lsfusion/client:6.2-SNAPSHOT
+    networks:
+      - lsf-network
+    ports:
+      - "8081:8080"
+    depends_on:
+      server:
+        condition: service_healthy
+    volumes:
+      - ./docker-client-conf:/usr/local/tomcat/conf/Catalina
+    environment:
+      - APP_SERVER=server
+    env_file:
+      - app.env
+
+
+networks:
+  lsf-network:
+    name: lsf_network

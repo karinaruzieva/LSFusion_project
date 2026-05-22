@@ -1,0 +1,1203 @@
+16 Apr 2026 11:34:53,602 ERROR StartLogger - Exception while starting logics instance: [error]:
+	Student:6:20 mismatched input '=' expecting '}'
+[error]:
+	Student:8:1 missing EOF at '}'
+
+16 Apr 2026 11:34:53,625 ERROR StartLogger - Exception while starting logics instance: [error]:
+	Discipline:6:25 mismatched input '=' expecting '}'
+[error]:
+	Discipline:7:1 missing EOF at '}'
+
+16 Apr 2026 11:36:48,656 ERROR StartLogger - Exception while starting logics instance: [error]:
+	Discipline:6:25 mismatched input '=' expecting '}'
+[error]:
+	Discipline:7:1 missing EOF at '}'
+
+16 Apr 2026 11:36:48,668 ERROR StartLogger - Exception while starting logics instance: [error]:
+	Student:6:20 mismatched input '=' expecting '}'
+[error]:
+	Student:8:1 missing EOF at '}'
+
+16 Apr 2026 11:39:05,180 ERROR StartLogger - Exception while starting logics instance: [error]:
+	Student:27:25 no viable alternative at input ''students.json''
+
+16 Apr 2026 11:39:05,195 ERROR StartLogger - Exception while starting logics instance: [error]:
+	Discipline:26:25 no viable alternative at input ''disciplines.json''
+
+16 Apr 2026 11:44:09,561 ERROR StartLogger - Exception while starting logics instance: [error]:
+	Discipline:26:25 no viable alternative at input 'FILE'
+[error]:
+	Discipline:30:27 no viable alternative at input 'FILE'
+
+16 Apr 2026 11:44:09,575 ERROR StartLogger - Exception while starting logics instance: [error]:
+	Student:27:25 no viable alternative at input 'FILE'
+[error]:
+	Student:31:27 no viable alternative at input 'FILE'
+
+16 Apr 2026 11:46:40,281 ERROR StartLogger - Exception while starting logics instance: [error]:
+	Discipline:26:25 no viable alternative at input ''disciplines.json''
+
+16 Apr 2026 11:46:40,291 ERROR StartLogger - Exception while starting logics instance: [error]:
+	Student:27:25 no viable alternative at input ''students.json''
+
+16 Apr 2026 11:50:09,757 ERROR StartLogger - Exception while starting logics instance: [error]:
+	Question:22:49 missing 'MESSAGE' at '('
+[error]:
+	Question:22:53 mismatched input 'MESSAGE' expecting ';'
+[error]:
+	Question:26:36 mismatched input '(' expecting ';'
+[error]:
+	Question:30:5 no viable alternative at input 'PROPERTIES'
+
+16 Apr 2026 11:55:05,841 ERROR StartLogger - Exception while starting logics instance: [error]:
+	Discipline:26:25 no viable alternative at input ''disciplines.json''
+
+16 Apr 2026 11:55:05,853 ERROR StartLogger - Exception while starting logics instance: [error]:
+	Student:27:25 no viable alternative at input ''students.json''
+
+16 Apr 2026 11:59:30,499 ERROR StartLogger - Exception while starting logics instance: [error]:
+	Question:22:36 mismatched input '(' expecting ';'
+[error]:
+	Question:26:5 no viable alternative at input 'PROPERTIES'
+
+16 Apr 2026 12:00:53,168 ERROR StartLogger - Exception while starting logics instance: [error]:
+	Question:25:36 mismatched input '(' expecting ';'
+[error]:
+	Question:29:5 no viable alternative at input 'PROPERTIES'
+
+16 Apr 2026 12:05:08,296 ERROR StartLogger - Exception while starting logics instance: [error]:
+	Discipline:26:25 no viable alternative at input ''disciplines.json''
+
+16 Apr 2026 12:05:08,305 ERROR StartLogger - Exception while starting logics instance: [error]:
+	Student:27:25 no viable alternative at input ''students.json''
+
+16 Apr 2026 12:14:01,892 ERROR StartLogger - Exception while starting logics instance: [error]:
+	Question:24:36 mismatched input '(' expecting ';'
+[error]:
+	Question:28:5 no viable alternative at input 'PROPERTIES'
+
+16 Apr 2026 12:16:15,921 ERROR StartLogger - Exception while starting logics instance: [error]:
+	Question:25:36 mismatched input '(' expecting ';'
+[error]:
+	Question:29:5 no viable alternative at input 'PROPERTIES'
+
+16 Apr 2026 12:18:35,589 ERROR StartLogger - Exception while starting logics instance: [error]:
+	Question:19:36 mismatched input '(' expecting ';'
+[error]:
+	Question:23:5 no viable alternative at input 'PROPERTIES'
+
+16 Apr 2026 12:22:51,086 ERROR StartLogger - Exception while starting logics instance: [error]:
+	Question:19:36 mismatched input '(' expecting ';'
+[error]:
+	Question:23:5 no viable alternative at input 'PROPERTIES'
+
+16 Apr 2026 12:29:23,348 ERROR StartLogger - Exception while starting logics instance: [error]:
+	Question:7:42 no viable alternative at input '['
+[error]:
+	Question:13:34 no viable alternative at input '['
+[error]:
+	Question:25:36 mismatched input '(' expecting ';'
+[error]:
+	Question:29:5 no viable alternative at input 'PROPERTIES'
+
+16 Apr 2026 15:12:21,292 ERROR StartLogger - Exception while starting logics instance: [error]:
+	Student:7:35 no viable alternative at input '['
+[error]:
+	Student:8:38 no viable alternative at input '['
+
+16 Apr 2026 15:12:21,302 ERROR StartLogger - Exception while starting logics instance: [error]:
+	Discipline:7:40 no viable alternative at input '['
+
+16 Apr 2026 15:20:30,236 ERROR StartLogger - Exception while starting logics instance: [error]:
+	Question:19:36 mismatched input '(' expecting ';'
+[error]:
+	Question:23:5 no viable alternative at input 'PROPERTIES'
+
+16 Apr 2026 15:22:15,848 ERROR StartLogger - Exception while starting logics instance: [error]:
+	Question:19:36 mismatched input '(' expecting ';'
+[error]:
+	Question:23:5 no viable alternative at input 'PROPERTIES'
+
+16 Apr 2026 15:24:34,832 ERROR StartLogger - Exception while starting logics instance: [error]:
+	Question:19:36 mismatched input '(' expecting ';'
+[error]:
+	Question:23:5 no viable alternative at input 'PROPERTIES'
+
+16 Apr 2026 15:30:23,970 ERROR StartLogger - Exception while starting logics instance: [error]:
+	Question:7:42 no viable alternative at input '['
+[error]:
+	Question:13:34 no viable alternative at input '['
+[error]:
+	Question:19:36 mismatched input '(' expecting ';'
+[error]:
+	Question:23:5 no viable alternative at input 'PROPERTIES'
+
+16 Apr 2026 15:55:51,708 ERROR StartLogger - Exception while starting logics instance: [error]:
+	Student:12:24 mismatched input ',' expecting 'MESSAGE'
+[error]:
+	Student:13:5 no viable alternative at input 'CHECK'
+[error]:
+	Student:17:50 no viable alternative at input ')'
+
+16 Apr 2026 15:55:51,729 ERROR StartLogger - Exception while starting logics instance: [error]:
+	Discipline:10:27 mismatched input ',' expecting 'MESSAGE'
+[error]:
+	Discipline:11:5 no viable alternative at input 'CHECK'
+[error]:
+	Discipline:15:54 no viable alternative at input ')'
+
+16 Apr 2026 16:01:57,448 ERROR StartLogger - Exception while starting logics instance: [error]:
+	Student:12:24 mismatched input ',' expecting 'MESSAGE'
+[error]:
+	Student:13:5 no viable alternative at input 'CHECK'
+[error]:
+	Student:17:50 no viable alternative at input ')'
+
+16 Apr 2026 16:01:57,472 ERROR StartLogger - Exception while starting logics instance: [error]:
+	Discipline:10:27 mismatched input ',' expecting 'MESSAGE'
+[error]:
+	Discipline:11:5 no viable alternative at input 'CHECK'
+[error]:
+	Discipline:15:54 no viable alternative at input ')'
+
+16 Apr 2026 16:06:51,427 ERROR StartLogger - Exception while starting logics instance: [error]:
+	Question:25:21 mismatched input ',' expecting 'MESSAGE'
+[error]:
+	Question:26:5 no viable alternative at input 'CHECK'
+[error]:
+	Question:29:25 mismatched input ',' expecting 'MESSAGE'
+[error]:
+	Question:30:5 no viable alternative at input 'CHECK'
+[error]:
+	Question:34:5 mismatched input 'CHECK' expecting 'MESSAGE'
+[error]:
+	Question:38:5 mismatched input 'CHECK' expecting 'MESSAGE'
+[error]:
+	Question:42:5 mismatched input 'CHECK' expecting 'MESSAGE'
+[error]:
+	Question:42:17 mismatched input 'SUM' expecting ID
+[error]:
+	Question:46:48 no viable alternative at input ')'
+[error]:
+	Question:59:60 mismatched input '(' expecting ';'
+[error]:
+	Question:71:34 mismatched input '(' expecting ';'
+[error]:
+	Question:75:5 no viable alternative at input 'PROPERTIES'
+
+16 Apr 2026 16:08:20,271 ERROR StartLogger - Exception while starting logics instance: [error]:
+	Question:7:42 no viable alternative at input '['
+[error]:
+	Question:13:34 no viable alternative at input '['
+[error]:
+	Question:19:36 mismatched input '(' expecting ';'
+[error]:
+	Question:23:5 no viable alternative at input 'PROPERTIES'
+
+16 Apr 2026 16:09:18,895 ERROR StartLogger - Exception while starting logics instance: [error]:
+	TestingSession:28:63 no viable alternative at input 'LIMIT'
+[error]:
+	TestingSession:28:63 mismatched input 'LIMIT' expecting '('
+[error]:
+	TestingSession:35:5 mismatched input 'EDIT' expecting '}'
+[error]:
+	TestingSession:36:1 missing EOF at '}'
+
+16 Apr 2026 16:09:55,121 ERROR StartLogger - Exception while starting logics instance: [error]:
+	TestingSession:35:5 mismatched input 'EDIT' expecting '}'
+[error]:
+	TestingSession:36:1 missing EOF at '}'
+
+16 Apr 2026 16:10:14,857 ERROR StartLogger - Exception while starting logics instance: [error]:
+	TestingSession:35:5 mismatched input 'EDIT' expecting '}'
+[error]:
+	TestingSession:36:1 missing EOF at '}'
+
+16 Apr 2026 16:10:53,550 ERROR StartLogger - Exception while starting logics instance: [error]:
+	TestingSession:35:5 mismatched input 'EDIT' expecting '}'
+[error]:
+	TestingSession:36:1 missing EOF at '}'
+
+16 Apr 2026 16:11:15,808 ERROR StartLogger - Exception while starting logics instance: [error]:
+	TestingSession:31:19 no viable alternative at input 'GROUP'
+[error]:
+	TestingSession:31:59 mismatched input '==' expecting ';'
+[error]:
+	TestingSession:31:64 mismatched input ';' expecting '('
+[error]:
+	TestingSession:32:21 no viable alternative at input 'GROUP'
+[error]:
+	TestingSession:32:61 mismatched input '==' expecting ';'
+[error]:
+	TestingSession:32:67 mismatched input 'AND' expecting '('
+[error]:
+	TestingSession:48:18 mismatched input '=' expecting ')'
+[error]:
+	TestingSession:48:43 no viable alternative at input ')'
+[error]:
+	TestingSession:62:39 mismatched input ',' expecting EQ
+
+16 Apr 2026 16:12:11,367 ERROR StartLogger - Exception while starting logics instance: [error]:
+	AppMenu:5:28 namespace 'Discipline' was not found in required modules
+Subsequent errors (if any) could not be found.
+16 Apr 2026 16:13:22,769 ERROR StartLogger - Exception while starting logics instance: [error]:
+	Discipline:11:5 value of class 'STRING[20]' is not comparable with value of class 'INTEGER'
+Subsequent errors (if any) could not be found.
+16 Apr 2026 16:13:22,780 ERROR StartLogger - Exception while starting logics instance: [error]:
+	Student:13:5 value of class 'STRING[20]' is not comparable with value of class 'INTEGER'
+Subsequent errors (if any) could not be found.
+16 Apr 2026 16:15:53,709 ERROR StartLogger - Exception while starting logics instance: [error]:
+	Discipline:11:5 value of class 'STRING[20]' is not comparable with value of class 'INTEGER'
+Subsequent errors (if any) could not be found.
+16 Apr 2026 16:15:53,720 ERROR StartLogger - Exception while starting logics instance: [error]:
+	Student:13:5 value of class 'STRING[20]' is not comparable with value of class 'INTEGER'
+Subsequent errors (if any) could not be found.
+16 Apr 2026 16:17:57,697 ERROR StartLogger - Exception while starting logics instance: 
+java.lang.RuntimeException: Dropping modules: Machinery
+Now, dropping modules is restricted by settings. If you are sure you want to drop these modules, you can set 'db.denyDropModules = false'
+in settings.properties or through other methods. For more information, please visit: https://docs.lsfusion.org/Launch_parameters/#applsfusion"
+	at lsfusion.server.physics.exec.db.controller.manager.DBManager.checkModules(DBManager.java:2358)
+	at lsfusion.server.physics.exec.db.controller.manager.DBManager.synchronizeDB(DBManager.java:1575)
+	at lsfusion.server.physics.exec.db.controller.manager.DBManager.onInit(DBManager.java:736)
+	at lsfusion.server.base.controller.lifecycle.LifecycleAdapter.lifecycleEvent(LifecycleAdapter.java:20)
+	at lsfusion.server.base.controller.manager.LifecycleManager.fireLifecycleEvent(LifecycleManager.java:39)
+	at lsfusion.server.base.controller.manager.LifecycleManager.fireStarting(LifecycleManager.java:44)
+	at lsfusion.server.logics.LogicsInstance.start(LogicsInstance.java:221)
+	at lsfusion.server.logics.BusinessLogicsBootstrap.start(BusinessLogicsBootstrap.java:62)
+	at lsfusion.server.logics.BusinessLogicsBootstrap.main(BusinessLogicsBootstrap.java:177)
+16 Apr 2026 16:19:33,534 ERROR StartLogger - Подсоединение по адресу db:5432 отклонено. Проверьте что хост и порт указаны правильно и что postmaster принимает TCP/IP-подсоединения. (host: db, user: postgres)
+16 Apr 2026 16:19:34,558 ERROR StartLogger - Подсоединение по адресу db:5432 отклонено. Проверьте что хост и порт указаны правильно и что postmaster принимает TCP/IP-подсоединения. (host: db, user: postgres)
+16 Apr 2026 16:19:35,563 ERROR StartLogger - Подсоединение по адресу db:5432 отклонено. Проверьте что хост и порт указаны правильно и что postmaster принимает TCP/IP-подсоединения. (host: db, user: postgres)
+16 Apr 2026 16:20:40,964 ERROR SystemLogger - Failed to initialize tess4j. Add tess4j jar to classpath.
+16 Apr 2026 16:24:15,935 ERROR SystemLogger - Failed to initialize tess4j. Add tess4j jar to classpath.
+16 Apr 2026 16:28:35,997 ERROR SystemLogger - Failed to initialize tess4j. Add tess4j jar to classpath.
+16 Apr 2026 16:29:40,396 ERROR LogicsModule - Внутренняя ошибка сервера: java.io.EOFException null at '16.04.2026, 16:29' from 'null': 
+RN[clientAddress: 172.19.0.1,290 - Authentication.CustomUser 'Обычный пользователь',1656950295,SQL@187082912] - RMI execution(RemoteNavigator.updateClientInfo(..))
+Выполнение запроса
+Обращение к SQL : SELECT CASE WHEN ((t0.Authentication_storeNavigatorSettingsForComputer IS NULL AND t1.SystemEvents_mobileMode_DesignEnv IS NOT NULL) OR (t2.SystemEvents_mobileMode_DesignEnv IS NOT NULL AND t0.Authentication_storeNavigatorSettingsForComputer IS NOT NULL)) THEN CASE WHEN ((t0.Authentication_storeNavigatorSettingsForComputer IS NULL AND t1.SystemEvents_mobileMode_DesignEnv=1) OR (t2.SystemEvents_mobileMode_DesignEnv=1 AND t0.Authentication_storeNavigatorSettingsForComputer IS NOT NULL)) THEN 1 ELSE NULL END ELSE CASE WHEN (570>=((0⁣+1⁣-ABS(0⁣-1⁣))/2)adjSel⁣) THEN 1 ELSE NULL END END AS jprop0 FROM dumb LEFT JOIN _auto t0 ON 1=1 LEFT JOIN _auto_Authentication_DesignEnv t1 ON t1.key0=user⁣ LEFT JOIN _auto_Authentication_DesignEnv t2 ON t2.key0=computer⁣ WHERE 1=1
+	at org.postgresql.core.PGStream.receiveChar(PGStream.java:469)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2166)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:371)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:502)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:419)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:341)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:326)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:302)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:297)
+	at lsfusion.server.data.sql.connection.ExConnection.updateContext(ExConnection.java:44)
+	at lsfusion.server.data.sql.connection.AbstractConnectionPool.getPrivate(AbstractConnectionPool.java:255)
+	at lsfusion.server.data.sql.connection.AbstractConnectionPool.getCommon(AbstractConnectionPool.java:95)
+	at lsfusion.server.data.sql.SQLSession.getConnection(SQLSession.java:286)
+	at lsfusion.server.data.sql.SQLSession.executeCommand_aroundBody2(SQLSession.java:1957)
+	at lsfusion.server.data.sql.SQLSession$AjcClosure3.run(SQLSession.java:1)
+	at org.aspectj.runtime.reflect.JoinPointImpl.proceed(JoinPointImpl.java:149)
+	at lsfusion.server.physics.admin.profiler.sql.SQLAnalyzeAspect.executeCommand(SQLAnalyzeAspect.java:54)
+	at lsfusion.server.data.sql.SQLSession.executeCommand_aroundBody4(SQLSession.java:1939)
+	at lsfusion.server.data.sql.SQLSession$AjcClosure5.run(SQLSession.java:1)
+	at org.aspectj.runtime.reflect.JoinPointImpl.proceed(JoinPointImpl.java:149)
+	at lsfusion.server.physics.admin.log.sql.SQLSessionLoggerAspect.executeMethodAndLogTime(SQLSessionLoggerAspect.java:57)
+	at lsfusion.server.physics.admin.log.sql.SQLSessionLoggerAspect.executeSelect(SQLSessionLoggerAspect.java:30)
+	at lsfusion.server.data.sql.SQLSession.executeCommand_aroundBody6(SQLSession.java:1939)
+	at lsfusion.server.data.sql.SQLSession$AjcClosure7.run(SQLSession.java:1)
+	at org.aspectj.runtime.reflect.JoinPointImpl.proceed(JoinPointImpl.java:149)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.processStackItem(ExecutionStackAspect.java:312)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.ajc$inlineAccessMethod$lsfusion_server_base_controller_stack_ExecutionStackAspect$lsfusion_server_base_controller_stack_ExecutionStackAspect$processStackItem(ExecutionStackAspect.java:1)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.callTwinMethod(ExecutionStackAspect.java:205)
+	at lsfusion.server.data.sql.SQLSession.executeCommand(SQLSession.java:1939)
+	at lsfusion.server.data.sql.SQLSession.executeCommand(SQLSession.java:2274)
+	at lsfusion.server.data.sql.SQLSession.executeSelect(SQLSession.java:2240)
+	at lsfusion.server.data.sql.SQLSession.executeSelect(SQLSession.java:2236)
+	at lsfusion.server.data.query.compile.CompiledQuery.execute(CompiledQuery.java:2082)
+	at lsfusion.server.data.query.IQuery.executeSQL_aroundBody0(IQuery.java:87)
+	at lsfusion.server.data.query.IQuery$AjcClosure1.run(IQuery.java:1)
+	at org.aspectj.runtime.reflect.JoinPointImpl.proceed(JoinPointImpl.java:149)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.processStackItem(ExecutionStackAspect.java:312)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.ajc$inlineAccessMethod$lsfusion_server_base_controller_stack_ExecutionStackAspect$lsfusion_server_base_controller_stack_ExecutionStackAspect$processStackItem(ExecutionStackAspect.java:1)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.callTwinMethod(ExecutionStackAspect.java:205)
+	at lsfusion.server.data.query.IQuery.executeSQL(IQuery.java:80)
+	at lsfusion.server.data.query.IQuery.executeSQL(IQuery.java:75)
+	at lsfusion.server.data.query.Query.execute(Query.java:516)
+	at lsfusion.server.data.query.Query.execute(Query.java:462)
+	at lsfusion.server.data.query.build.QueryBuilder.execute(QueryBuilder.java:114)
+	at lsfusion.server.logics.property.Property.read(Property.java:1591)
+	at lsfusion.server.logics.property.Property.read(Property.java:1644)
+	at lsfusion.server.language.property.LP.read(LP.java:95)
+	at lsfusion.server.language.property.LP.read(LP.java:107)
+	at lsfusion.server.logics.navigator.controller.remote.RemoteNavigator.updateClientInfo_aroundBody10(RemoteNavigator.java:426)
+	at lsfusion.server.logics.navigator.controller.remote.RemoteNavigator.updateClientInfo_aroundBody11$advice(RemoteNavigator.java:200)
+	at lsfusion.server.logics.navigator.controller.remote.RemoteNavigator.updateClientInfo_aroundBody12(RemoteNavigator.java:1)
+	at lsfusion.server.logics.navigator.controller.remote.RemoteNavigator$AjcClosure13.run(RemoteNavigator.java:1)
+	at org.aspectj.runtime.reflect.JoinPointImpl.proceed(JoinPointImpl.java:149)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.processStackItem(ExecutionStackAspect.java:312)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.ajc$inlineAccessMethod$lsfusion_server_base_controller_stack_ExecutionStackAspect$lsfusion_server_base_controller_stack_ExecutionStackAspect$processStackItem(ExecutionStackAspect.java:1)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.execute(ExecutionStackAspect.java:224)
+	at lsfusion.server.logics.navigator.controller.remote.RemoteNavigator.updateClientInfo_aroundBody14(RemoteNavigator.java:413)
+	at lsfusion.server.logics.navigator.controller.remote.RemoteNavigator.updateClientInfo_aroundBody15$advice(RemoteNavigator.java:46)
+	at lsfusion.server.logics.navigator.controller.remote.RemoteNavigator.updateClientInfo_aroundBody16(RemoteNavigator.java:1)
+	at lsfusion.server.logics.navigator.controller.remote.RemoteNavigator.updateClientInfo_aroundBody17$advice(RemoteNavigator.java:37)
+	at lsfusion.server.logics.navigator.controller.remote.RemoteNavigator.updateClientInfo_aroundBody18(RemoteNavigator.java:1)
+	at lsfusion.server.logics.navigator.controller.remote.RemoteNavigator.updateClientInfo_aroundBody19$advice(RemoteNavigator.java:51)
+	at lsfusion.server.logics.navigator.controller.remote.RemoteNavigator.updateClientInfo(RemoteNavigator.java:1)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.rmi/sun.rmi.server.UnicastServerRef.dispatch(UnicastServerRef.java:360)
+	at java.rmi/sun.rmi.transport.Transport$1.run(Transport.java:200)
+	at java.rmi/sun.rmi.transport.Transport$1.run(Transport.java:197)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:714)
+	at java.rmi/sun.rmi.transport.Transport.serviceCall(Transport.java:196)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport.handleMessages(TCPTransport.java:598)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run0(TCPTransport.java:844)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.lambda$run$0(TCPTransport.java:721)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run(TCPTransport.java:720)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+
+16 Apr 2026 16:29:40,416 ERROR SystemLogger - Error when logging exception: 
+lsfusion.server.data.sql.exception.SQLClosedException: CONNECTION_CLOSED org.postgresql.jdbc.PgConnection@51e7d493 org.postgresql.util.PSQLException: Ошибка ввода/вывода при отправке бэкенду true
+	at lsfusion.server.data.sql.SQLSession.handle(SQLSession.java:1923)
+	at lsfusion.server.data.sql.SQLSession.handle(SQLSession.java:218)
+	at lsfusion.server.data.sql.SQLSession.handleAndPropagate(SQLSession.java:618)
+	at lsfusion.server.data.sql.SQLSession.startTransaction(SQLSession.java:609)
+	at lsfusion.server.logics.action.session.DataSession.startTransaction(DataSession.java:263)
+	at lsfusion.server.logics.action.session.DataSession.transactApply(DataSession.java:1724)
+	at lsfusion.server.logics.action.session.DataSession.apply_aroundBody16(DataSession.java:1971)
+	at lsfusion.server.logics.action.session.DataSession$AjcClosure17.run(DataSession.java:1)
+	at org.aspectj.runtime.reflect.JoinPointImpl.proceed(JoinPointImpl.java:149)
+	at lsfusion.server.base.controller.thread.AssertSynchronizedAspect.callMethod(AssertSynchronizedAspect.java:39)
+	at lsfusion.server.logics.action.session.DataSession.apply(DataSession.java:1924)
+	at lsfusion.server.logics.action.controller.context.ExecutionEnvironment.applyMessage(ExecutionEnvironment.java:102)
+	at lsfusion.server.logics.action.controller.context.ExecutionEnvironment.applyException(ExecutionEnvironment.java:94)
+	at lsfusion.server.logics.action.session.DataSession.applyException(DataSession.java:1613)
+	at lsfusion.server.physics.admin.monitor.SystemEventsLogicsModule.logException(SystemEventsLogicsModule.java:332)
+	at lsfusion.server.base.controller.remote.RemoteExceptionsAspect.logException(RemoteExceptionsAspect.java:65)
+	at lsfusion.server.logics.navigator.controller.remote.RemoteNavigator.updateClientInfo_aroundBody17$advice(RemoteNavigator.java:48)
+	at lsfusion.server.logics.navigator.controller.remote.RemoteNavigator.updateClientInfo_aroundBody18(RemoteNavigator.java:1)
+	at lsfusion.server.logics.navigator.controller.remote.RemoteNavigator.updateClientInfo_aroundBody19$advice(RemoteNavigator.java:51)
+	at lsfusion.server.logics.navigator.controller.remote.RemoteNavigator.updateClientInfo(RemoteNavigator.java:1)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.rmi/sun.rmi.server.UnicastServerRef.dispatch(UnicastServerRef.java:360)
+	at java.rmi/sun.rmi.transport.Transport$1.run(Transport.java:200)
+	at java.rmi/sun.rmi.transport.Transport$1.run(Transport.java:197)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:714)
+	at java.rmi/sun.rmi.transport.Transport.serviceCall(Transport.java:196)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport.handleMessages(TCPTransport.java:598)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run0(TCPTransport.java:844)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.lambda$run$0(TCPTransport.java:721)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run(TCPTransport.java:720)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+16 Apr 2026 16:29:40,960 ERROR LogicsModule - lsfusion.interop.base.exception.RemoteInternalException Внутренняя ошибка сервера: java.io.EOFException null at '16.04.2026, 16:29' from '172.19.0.1 - web': 
+RN[clientAddress: 172.19.0.1,290 - Authentication.CustomUser 'Обычный пользователь',1656950295,SQL@187082912] - RMI execution(RemoteNavigator.updateClientInfo(..))
+Выполнение запроса
+Обращение к SQL : SELECT CASE WHEN ((t0.Authentication_storeNavigatorSettingsForComputer IS NULL AND t1.SystemEvents_mobileMode_DesignEnv IS NOT NULL) OR (t2.SystemEvents_mobileMode_DesignEnv IS NOT NULL AND t0.Authentication_storeNavigatorSettingsForComputer IS NOT NULL)) THEN CASE WHEN ((t0.Authentication_storeNavigatorSettingsForComputer IS NULL AND t1.SystemEvents_mobileMode_DesignEnv=1) OR (t2.SystemEvents_mobileMode_DesignEnv=1 AND t0.Authentication_storeNavigatorSettingsForComputer IS NOT NULL)) THEN 1 ELSE NULL END ELSE CASE WHEN (570>=((0⁣+1⁣-ABS(0⁣-1⁣))/2)adjSel⁣) THEN 1 ELSE NULL END END AS jprop0 FROM dumb LEFT JOIN _auto t0 ON 1=1 LEFT JOIN _auto_Authentication_DesignEnv t1 ON t1.key0=user⁣ LEFT JOIN _auto_Authentication_DesignEnv t2 ON t2.key0=computer⁣ WHERE 1=1
+	at org.postgresql.core.PGStream.receiveChar(PGStream.java:469)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2166)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:371)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:502)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:419)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:341)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:326)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:302)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:297)
+	at lsfusion.server.data.sql.connection.ExConnection.updateContext(ExConnection.java:44)
+	at lsfusion.server.data.sql.connection.AbstractConnectionPool.getPrivate(AbstractConnectionPool.java:255)
+	at lsfusion.server.data.sql.connection.AbstractConnectionPool.getCommon(AbstractConnectionPool.java:95)
+	at lsfusion.server.data.sql.SQLSession.getConnection(SQLSession.java:286)
+	at lsfusion.server.data.sql.SQLSession.executeCommand_aroundBody2(SQLSession.java:1957)
+	at lsfusion.server.data.sql.SQLSession$AjcClosure3.run(SQLSession.java:1)
+	at org.aspectj.runtime.reflect.JoinPointImpl.proceed(JoinPointImpl.java:149)
+	at lsfusion.server.physics.admin.profiler.sql.SQLAnalyzeAspect.executeCommand(SQLAnalyzeAspect.java:54)
+	at lsfusion.server.data.sql.SQLSession.executeCommand_aroundBody4(SQLSession.java:1939)
+	at lsfusion.server.data.sql.SQLSession$AjcClosure5.run(SQLSession.java:1)
+	at org.aspectj.runtime.reflect.JoinPointImpl.proceed(JoinPointImpl.java:149)
+	at lsfusion.server.physics.admin.log.sql.SQLSessionLoggerAspect.executeMethodAndLogTime(SQLSessionLoggerAspect.java:57)
+	at lsfusion.server.physics.admin.log.sql.SQLSessionLoggerAspect.executeSelect(SQLSessionLoggerAspect.java:30)
+	at lsfusion.server.data.sql.SQLSession.executeCommand_aroundBody6(SQLSession.java:1939)
+	at lsfusion.server.data.sql.SQLSession$AjcClosure7.run(SQLSession.java:1)
+	at org.aspectj.runtime.reflect.JoinPointImpl.proceed(JoinPointImpl.java:149)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.processStackItem(ExecutionStackAspect.java:312)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.ajc$inlineAccessMethod$lsfusion_server_base_controller_stack_ExecutionStackAspect$lsfusion_server_base_controller_stack_ExecutionStackAspect$processStackItem(ExecutionStackAspect.java:1)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.callTwinMethod(ExecutionStackAspect.java:205)
+	at lsfusion.server.data.sql.SQLSession.executeCommand(SQLSession.java:1939)
+	at lsfusion.server.data.sql.SQLSession.executeCommand(SQLSession.java:2274)
+	at lsfusion.server.data.sql.SQLSession.executeSelect(SQLSession.java:2240)
+	at lsfusion.server.data.sql.SQLSession.executeSelect(SQLSession.java:2236)
+	at lsfusion.server.data.query.compile.CompiledQuery.execute(CompiledQuery.java:2082)
+	at lsfusion.server.data.query.IQuery.executeSQL_aroundBody0(IQuery.java:87)
+	at lsfusion.server.data.query.IQuery$AjcClosure1.run(IQuery.java:1)
+	at org.aspectj.runtime.reflect.JoinPointImpl.proceed(JoinPointImpl.java:149)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.processStackItem(ExecutionStackAspect.java:312)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.ajc$inlineAccessMethod$lsfusion_server_base_controller_stack_ExecutionStackAspect$lsfusion_server_base_controller_stack_ExecutionStackAspect$processStackItem(ExecutionStackAspect.java:1)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.callTwinMethod(ExecutionStackAspect.java:205)
+	at lsfusion.server.data.query.IQuery.executeSQL(IQuery.java:80)
+	at lsfusion.server.data.query.IQuery.executeSQL(IQuery.java:75)
+	at lsfusion.server.data.query.Query.execute(Query.java:516)
+	at lsfusion.server.data.query.Query.execute(Query.java:462)
+	at lsfusion.server.data.query.build.QueryBuilder.execute(QueryBuilder.java:114)
+	at lsfusion.server.logics.property.Property.read(Property.java:1591)
+	at lsfusion.server.logics.property.Property.read(Property.java:1644)
+	at lsfusion.server.language.property.LP.read(LP.java:95)
+	at lsfusion.server.language.property.LP.read(LP.java:107)
+	at lsfusion.server.logics.navigator.controller.remote.RemoteNavigator.updateClientInfo_aroundBody10(RemoteNavigator.java:426)
+	at lsfusion.server.logics.navigator.controller.remote.RemoteNavigator.updateClientInfo_aroundBody11$advice(RemoteNavigator.java:200)
+	at lsfusion.server.logics.navigator.controller.remote.RemoteNavigator.updateClientInfo_aroundBody12(RemoteNavigator.java:1)
+	at lsfusion.server.logics.navigator.controller.remote.RemoteNavigator$AjcClosure13.run(RemoteNavigator.java:1)
+	at org.aspectj.runtime.reflect.JoinPointImpl.proceed(JoinPointImpl.java:149)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.processStackItem(ExecutionStackAspect.java:312)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.ajc$inlineAccessMethod$lsfusion_server_base_controller_stack_ExecutionStackAspect$lsfusion_server_base_controller_stack_ExecutionStackAspect$processStackItem(ExecutionStackAspect.java:1)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.execute(ExecutionStackAspect.java:224)
+	at lsfusion.server.logics.navigator.controller.remote.RemoteNavigator.updateClientInfo_aroundBody14(RemoteNavigator.java:413)
+	at lsfusion.server.logics.navigator.controller.remote.RemoteNavigator.updateClientInfo_aroundBody15$advice(RemoteNavigator.java:46)
+	at lsfusion.server.logics.navigator.controller.remote.RemoteNavigator.updateClientInfo_aroundBody16(RemoteNavigator.java:1)
+	at lsfusion.server.logics.navigator.controller.remote.RemoteNavigator.updateClientInfo_aroundBody17$advice(RemoteNavigator.java:37)
+	at lsfusion.server.logics.navigator.controller.remote.RemoteNavigator.updateClientInfo_aroundBody18(RemoteNavigator.java:1)
+	at lsfusion.server.logics.navigator.controller.remote.RemoteNavigator.updateClientInfo_aroundBody19$advice(RemoteNavigator.java:51)
+	at lsfusion.server.logics.navigator.controller.remote.RemoteNavigator.updateClientInfo(RemoteNavigator.java:1)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.rmi/sun.rmi.server.UnicastServerRef.dispatch(UnicastServerRef.java:360)
+	at java.rmi/sun.rmi.transport.Transport$1.run(Transport.java:200)
+	at java.rmi/sun.rmi.transport.Transport$1.run(Transport.java:197)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:714)
+	at java.rmi/sun.rmi.transport.Transport.serviceCall(Transport.java:196)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport.handleMessages(TCPTransport.java:598)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run0(TCPTransport.java:844)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.lambda$run$0(TCPTransport.java:721)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run(TCPTransport.java:720)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+	at java.rmi/sun.rmi.transport.StreamRemoteCall.exceptionReceivedFromServer(StreamRemoteCall.java:304)
+	at java.rmi/sun.rmi.transport.StreamRemoteCall.executeCall(StreamRemoteCall.java:280)
+	at java.rmi/sun.rmi.server.UnicastRef.invoke(UnicastRef.java:166)
+	at java.rmi/java.rmi.server.RemoteObjectInvocationHandler.invokeRemoteMethod(RemoteObjectInvocationHandler.java:215)
+	at java.rmi/java.rmi.server.RemoteObjectInvocationHandler.invoke(RemoteObjectInvocationHandler.java:160)
+	at jdk.proxy3/jdk.proxy3.$Proxy34.updateClientInfo(Unknown Source)
+	at lsfusion.client.navigator.controller.remote.proxy.RemoteNavigatorProxy.updateClientInfo_aroundBody16(RemoteNavigatorProxy.java:59)
+	at lsfusion.client.navigator.controller.remote.proxy.RemoteNavigatorProxy.updateClientInfo_aroundBody17$advice(RemoteNavigatorProxy.java:86)
+	at lsfusion.client.navigator.controller.remote.proxy.RemoteNavigatorProxy.updateClientInfo(RemoteNavigatorProxy.java:1)
+	at lsfusion.http.controller.MainController.getClientSettings(MainController.java:79)
+	at lsfusion.gwt.server.navigator.handlers.InitializeNavigatorHandler.getClientSettings(InitializeNavigatorHandler.java:43)
+	at lsfusion.gwt.server.navigator.handlers.InitializeNavigatorHandler.executeEx(InitializeNavigatorHandler.java:108)
+	at lsfusion.gwt.server.navigator.handlers.InitializeNavigatorHandler.executeEx(InitializeNavigatorHandler.java:1)
+	at lsfusion.gwt.server.SimpleActionHandlerEx.execute(SimpleActionHandlerEx.java:32)
+	at net.customware.gwt.dispatch.server.AbstractDispatch.doExecute(AbstractDispatch.java:81)
+	at net.customware.gwt.dispatch.server.AbstractDispatch.execute(AbstractDispatch.java:68)
+	at lsfusion.gwt.server.MainDispatchServlet.execute(MainDispatchServlet.java:214)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at com.google.gwt.user.server.rpc.RPC.invokeAndEncodeResponse(RPC.java:587)
+	at com.google.gwt.user.server.rpc.RemoteServiceServlet.processCall(RemoteServiceServlet.java:333)
+	at com.google.gwt.user.server.rpc.RemoteServiceServlet.processCall(RemoteServiceServlet.java:303)
+	at com.google.gwt.user.server.rpc.RemoteServiceServlet.processPost(RemoteServiceServlet.java:373)
+	at com.google.gwt.user.server.rpc.AbstractRemoteServiceServlet.doPost(AbstractRemoteServiceServlet.java:62)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:555)
+	at lsfusion.gwt.server.MainDispatchServlet.handleRequest(MainDispatchServlet.java:207)
+	at org.springframework.web.context.support.HttpRequestHandlerServlet.service(HttpRequestHandlerServlet.java:73)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:623)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:197)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+	at org.tuckey.web.filters.urlrewrite.RuleChain.handleRewrite(RuleChain.java:176)
+	at org.tuckey.web.filters.urlrewrite.RuleChain.doRules(RuleChain.java:145)
+	at org.tuckey.web.filters.urlrewrite.UrlRewriter.processRequest(UrlRewriter.java:92)
+	at org.tuckey.web.filters.urlrewrite.UrlRewriteFilter.doFilter(UrlRewriteFilter.java:394)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+	at lsfusion.http.authentication.LSFLocaleFilter.doFilterInternal(LSFLocaleFilter.java:50)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:320)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.invoke(FilterSecurityInterceptor.java:126)
+	at org.springframework.security.web.access.intercept.FilterSecurityInterceptor.doFilter(FilterSecurityInterceptor.java:90)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.access.ExceptionTranslationFilter.doFilter(ExceptionTranslationFilter.java:118)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.session.SessionManagementFilter.doFilter(SessionManagementFilter.java:137)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.AnonymousAuthenticationFilter.doFilter(AnonymousAuthenticationFilter.java:111)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter.doFilter(SecurityContextHolderAwareRequestFilter.java:158)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.savedrequest.RequestCacheAwareFilter.doFilter(RequestCacheAwareFilter.java:63)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.header.HeaderWriterFilter.doHeadersAfter(HeaderWriterFilter.java:92)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:77)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:56)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:215)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:178)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:358)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:271)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:142)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:166)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:88)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:491)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:83)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:643)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:72)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:398)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:939)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1854)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:973)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:491)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+
+16 Apr 2026 16:29:40,994 ERROR LogicsModule - Внутренняя ошибка сервера: lsfusion.server.data.sql.exception.SQLClosedException CONNECTION_CLOSED org.postgresql.jdbc.PgConnection@315848a7 org.postgresql.util.PSQLException: Ошибка ввода/вывода при отправке бэкенду false at '16.04.2026, 16:29' from 'null': 
+RN[clientAddress: 172.19.0.1,290 - Authentication.CustomUser 'Обычный пользователь',1656950295,SQL@187082912] - RMI execution(RemoteNavigator.logClientException(..))
+Выполнение запроса
+Обращение к SQL : SELECT t0.Authentication_login_CustomUser AS jprop0 FROM dumb LEFT JOIN Authentication_customUser t0 ON t0.key0=0⁣ WHERE 1=1
+	at lsfusion.server.data.sql.SQLSession.handle(SQLSession.java:1923)
+	at lsfusion.server.data.sql.SQLSession.executeCommand_aroundBody2(SQLSession.java:2015)
+	at lsfusion.server.data.sql.SQLSession$AjcClosure3.run(SQLSession.java:1)
+	at org.aspectj.runtime.reflect.JoinPointImpl.proceed(JoinPointImpl.java:149)
+	at lsfusion.server.physics.admin.profiler.sql.SQLAnalyzeAspect.executeCommand(SQLAnalyzeAspect.java:54)
+	at lsfusion.server.data.sql.SQLSession.executeCommand_aroundBody4(SQLSession.java:1939)
+	at lsfusion.server.data.sql.SQLSession$AjcClosure5.run(SQLSession.java:1)
+	at org.aspectj.runtime.reflect.JoinPointImpl.proceed(JoinPointImpl.java:149)
+	at lsfusion.server.physics.admin.log.sql.SQLSessionLoggerAspect.executeMethodAndLogTime(SQLSessionLoggerAspect.java:57)
+	at lsfusion.server.physics.admin.log.sql.SQLSessionLoggerAspect.executeSelect(SQLSessionLoggerAspect.java:30)
+	at lsfusion.server.data.sql.SQLSession.executeCommand_aroundBody6(SQLSession.java:1939)
+	at lsfusion.server.data.sql.SQLSession$AjcClosure7.run(SQLSession.java:1)
+	at org.aspectj.runtime.reflect.JoinPointImpl.proceed(JoinPointImpl.java:149)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.processStackItem(ExecutionStackAspect.java:312)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.ajc$inlineAccessMethod$lsfusion_server_base_controller_stack_ExecutionStackAspect$lsfusion_server_base_controller_stack_ExecutionStackAspect$processStackItem(ExecutionStackAspect.java:1)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.callTwinMethod(ExecutionStackAspect.java:205)
+	at lsfusion.server.data.sql.SQLSession.executeCommand(SQLSession.java:1939)
+	at lsfusion.server.data.sql.SQLSession.executeCommand(SQLSession.java:2274)
+	at lsfusion.server.data.sql.SQLSession.executeSelect(SQLSession.java:2240)
+	at lsfusion.server.data.sql.SQLSession.executeSelect(SQLSession.java:2236)
+	at lsfusion.server.data.query.compile.CompiledQuery.execute(CompiledQuery.java:2082)
+	at lsfusion.server.data.query.IQuery.executeSQL_aroundBody0(IQuery.java:87)
+	at lsfusion.server.data.query.IQuery$AjcClosure1.run(IQuery.java:1)
+	at org.aspectj.runtime.reflect.JoinPointImpl.proceed(JoinPointImpl.java:149)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.processStackItem(ExecutionStackAspect.java:312)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.ajc$inlineAccessMethod$lsfusion_server_base_controller_stack_ExecutionStackAspect$lsfusion_server_base_controller_stack_ExecutionStackAspect$processStackItem(ExecutionStackAspect.java:1)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.callTwinMethod(ExecutionStackAspect.java:205)
+	at lsfusion.server.data.query.IQuery.executeSQL(IQuery.java:80)
+	at lsfusion.server.data.query.IQuery.executeSQL(IQuery.java:75)
+	at lsfusion.server.data.query.Query.executeSQLClasses(Query.java:587)
+	at lsfusion.server.data.query.Query.executeClasses(Query.java:583)
+	at lsfusion.server.data.query.Query.executeClasses(Query.java:536)
+	at lsfusion.server.data.query.build.QueryBuilder.executeClasses(QueryBuilder.java:145)
+	at lsfusion.server.logics.property.Property.readClasses(Property.java:1580)
+	at lsfusion.server.physics.exec.db.controller.manager.DBManager.lambda$14(DBManager.java:1086)
+	at lsfusion.server.physics.exec.db.controller.manager.DBManager$WeakFlushedCache.proceed(DBManager.java:1199)
+	at lsfusion.server.physics.exec.db.controller.manager.DBManager.readLazyValue(DBManager.java:1085)
+	at lsfusion.server.logics.navigator.controller.env.ChangesController.readLazyValue(ChangesController.java:35)
+	at lsfusion.server.logics.property.Property.readLazyClasses(Property.java:1532)
+	at lsfusion.server.logics.property.Property.readLazyClasses(Property.java:1528)
+	at lsfusion.server.logics.property.Property.read(Property.java:1584)
+	at lsfusion.server.logics.property.Property.read(Property.java:1644)
+	at lsfusion.server.language.property.LP.read(LP.java:95)
+	at lsfusion.server.language.property.LP.read(LP.java:107)
+	at lsfusion.server.physics.admin.monitor.SystemEventsLogicsModule.logException(SystemEventsLogicsModule.java:319)
+	at lsfusion.server.logics.navigator.controller.remote.RemoteNavigator.logClientException_aroundBody0(RemoteNavigator.java:189)
+	at lsfusion.server.logics.navigator.controller.remote.RemoteNavigator.logClientException_aroundBody1$advice(RemoteNavigator.java:200)
+	at lsfusion.server.logics.navigator.controller.remote.RemoteNavigator.logClientException_aroundBody2(RemoteNavigator.java:1)
+	at lsfusion.server.logics.navigator.controller.remote.RemoteNavigator$AjcClosure3.run(RemoteNavigator.java:1)
+	at org.aspectj.runtime.reflect.JoinPointImpl.proceed(JoinPointImpl.java:149)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.processStackItem(ExecutionStackAspect.java:312)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.ajc$inlineAccessMethod$lsfusion_server_base_controller_stack_ExecutionStackAspect$lsfusion_server_base_controller_stack_ExecutionStackAspect$processStackItem(ExecutionStackAspect.java:1)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.execute(ExecutionStackAspect.java:224)
+	at lsfusion.server.logics.navigator.controller.remote.RemoteNavigator.logClientException_aroundBody4(RemoteNavigator.java:181)
+	at lsfusion.server.logics.navigator.controller.remote.RemoteNavigator.logClientException_aroundBody5$advice(RemoteNavigator.java:46)
+	at lsfusion.server.logics.navigator.controller.remote.RemoteNavigator.logClientException_aroundBody6(RemoteNavigator.java:1)
+	at lsfusion.server.logics.navigator.controller.remote.RemoteNavigator.logClientException_aroundBody7$advice(RemoteNavigator.java:37)
+	at lsfusion.server.logics.navigator.controller.remote.RemoteNavigator.logClientException_aroundBody8(RemoteNavigator.java:1)
+	at lsfusion.server.logics.navigator.controller.remote.RemoteNavigator.logClientException_aroundBody9$advice(RemoteNavigator.java:51)
+	at lsfusion.server.logics.navigator.controller.remote.RemoteNavigator.logClientException(RemoteNavigator.java:1)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.rmi/sun.rmi.server.UnicastServerRef.dispatch(UnicastServerRef.java:360)
+	at java.rmi/sun.rmi.transport.Transport$1.run(Transport.java:200)
+	at java.rmi/sun.rmi.transport.Transport$1.run(Transport.java:197)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:714)
+	at java.rmi/sun.rmi.transport.Transport.serviceCall(Transport.java:196)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport.handleMessages(TCPTransport.java:598)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run0(TCPTransport.java:844)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.lambda$run$0(TCPTransport.java:721)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run(TCPTransport.java:720)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+
+16 Apr 2026 16:29:41,028 ERROR SystemLogger - Error when logging exception: 
+lsfusion.server.data.sql.exception.SQLClosedException: CONNECTION_CLOSED org.postgresql.jdbc.PgConnection@333b29b6 org.postgresql.util.PSQLException: Ошибка ввода/вывода при отправке бэкенду true
+	at lsfusion.server.data.sql.SQLSession.handle(SQLSession.java:1923)
+	at lsfusion.server.data.sql.SQLSession.handle(SQLSession.java:218)
+	at lsfusion.server.data.sql.SQLSession.handleAndPropagate(SQLSession.java:618)
+	at lsfusion.server.data.sql.SQLSession.startTransaction(SQLSession.java:609)
+	at lsfusion.server.logics.action.session.DataSession.startTransaction(DataSession.java:263)
+	at lsfusion.server.logics.action.session.DataSession.transactApply(DataSession.java:1724)
+	at lsfusion.server.logics.action.session.DataSession.apply_aroundBody16(DataSession.java:1971)
+	at lsfusion.server.logics.action.session.DataSession$AjcClosure17.run(DataSession.java:1)
+	at org.aspectj.runtime.reflect.JoinPointImpl.proceed(JoinPointImpl.java:149)
+	at lsfusion.server.base.controller.thread.AssertSynchronizedAspect.callMethod(AssertSynchronizedAspect.java:39)
+	at lsfusion.server.logics.action.session.DataSession.apply(DataSession.java:1924)
+	at lsfusion.server.logics.action.controller.context.ExecutionEnvironment.applyMessage(ExecutionEnvironment.java:102)
+	at lsfusion.server.logics.action.controller.context.ExecutionEnvironment.applyException(ExecutionEnvironment.java:94)
+	at lsfusion.server.logics.action.session.DataSession.applyException(DataSession.java:1613)
+	at lsfusion.server.physics.admin.monitor.SystemEventsLogicsModule.logException(SystemEventsLogicsModule.java:332)
+	at lsfusion.server.base.controller.remote.RemoteExceptionsAspect.logException(RemoteExceptionsAspect.java:65)
+	at lsfusion.server.logics.navigator.controller.remote.RemoteNavigator.logClientException_aroundBody7$advice(RemoteNavigator.java:48)
+	at lsfusion.server.logics.navigator.controller.remote.RemoteNavigator.logClientException_aroundBody8(RemoteNavigator.java:1)
+	at lsfusion.server.logics.navigator.controller.remote.RemoteNavigator.logClientException_aroundBody9$advice(RemoteNavigator.java:51)
+	at lsfusion.server.logics.navigator.controller.remote.RemoteNavigator.logClientException(RemoteNavigator.java:1)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.rmi/sun.rmi.server.UnicastServerRef.dispatch(UnicastServerRef.java:360)
+	at java.rmi/sun.rmi.transport.Transport$1.run(Transport.java:200)
+	at java.rmi/sun.rmi.transport.Transport$1.run(Transport.java:197)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:714)
+	at java.rmi/sun.rmi.transport.Transport.serviceCall(Transport.java:196)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport.handleMessages(TCPTransport.java:598)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run0(TCPTransport.java:844)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.lambda$run$0(TCPTransport.java:721)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run(TCPTransport.java:720)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+16 Apr 2026 16:29:57,501 ERROR LogicsModule - Внутренняя ошибка сервера: lsfusion.server.data.sql.exception.SQLClosedException CONNECTION_CLOSED org.postgresql.jdbc.PgConnection@6a41dee8 org.postgresql.util.PSQLException: Ошибка ввода/вывода при отправке бэкенду false at '16.04.2026, 16:29' from 'null': 
+lsfusion.server.logics.controller.remote.RemoteLogics@44f743c3 - RMI execution(RemoteLogics.exec(..))
+Выполнение запроса
+Обращение к SQL : SELECT t0.Authentication_clientTimeZone_CustomUser AS jprop0 FROM dumb LEFT JOIN Authentication_customUser t0 ON t0.key0=0⁣ WHERE 1=1
+	at lsfusion.server.data.sql.SQLSession.handle(SQLSession.java:1923)
+	at lsfusion.server.data.sql.SQLSession.executeCommand_aroundBody2(SQLSession.java:2015)
+	at lsfusion.server.data.sql.SQLSession$AjcClosure3.run(SQLSession.java:1)
+	at org.aspectj.runtime.reflect.JoinPointImpl.proceed(JoinPointImpl.java:149)
+	at lsfusion.server.physics.admin.profiler.sql.SQLAnalyzeAspect.executeCommand(SQLAnalyzeAspect.java:54)
+	at lsfusion.server.data.sql.SQLSession.executeCommand_aroundBody4(SQLSession.java:1939)
+	at lsfusion.server.data.sql.SQLSession$AjcClosure5.run(SQLSession.java:1)
+	at org.aspectj.runtime.reflect.JoinPointImpl.proceed(JoinPointImpl.java:149)
+	at lsfusion.server.physics.admin.log.sql.SQLSessionLoggerAspect.executeMethodAndLogTime(SQLSessionLoggerAspect.java:57)
+	at lsfusion.server.physics.admin.log.sql.SQLSessionLoggerAspect.executeSelect(SQLSessionLoggerAspect.java:30)
+	at lsfusion.server.data.sql.SQLSession.executeCommand_aroundBody6(SQLSession.java:1939)
+	at lsfusion.server.data.sql.SQLSession$AjcClosure7.run(SQLSession.java:1)
+	at org.aspectj.runtime.reflect.JoinPointImpl.proceed(JoinPointImpl.java:149)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.processStackItem(ExecutionStackAspect.java:312)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.ajc$inlineAccessMethod$lsfusion_server_base_controller_stack_ExecutionStackAspect$lsfusion_server_base_controller_stack_ExecutionStackAspect$processStackItem(ExecutionStackAspect.java:1)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.callTwinMethod(ExecutionStackAspect.java:205)
+	at lsfusion.server.data.sql.SQLSession.executeCommand(SQLSession.java:1939)
+	at lsfusion.server.data.sql.SQLSession.executeCommand(SQLSession.java:2274)
+	at lsfusion.server.data.sql.SQLSession.executeSelect(SQLSession.java:2240)
+	at lsfusion.server.data.sql.SQLSession.executeSelect(SQLSession.java:2236)
+	at lsfusion.server.data.query.compile.CompiledQuery.execute(CompiledQuery.java:2082)
+	at lsfusion.server.data.query.IQuery.executeSQL_aroundBody0(IQuery.java:87)
+	at lsfusion.server.data.query.IQuery$AjcClosure1.run(IQuery.java:1)
+	at org.aspectj.runtime.reflect.JoinPointImpl.proceed(JoinPointImpl.java:149)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.processStackItem(ExecutionStackAspect.java:312)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.ajc$inlineAccessMethod$lsfusion_server_base_controller_stack_ExecutionStackAspect$lsfusion_server_base_controller_stack_ExecutionStackAspect$processStackItem(ExecutionStackAspect.java:1)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.callTwinMethod(ExecutionStackAspect.java:205)
+	at lsfusion.server.data.query.IQuery.executeSQL(IQuery.java:80)
+	at lsfusion.server.data.query.IQuery.executeSQL(IQuery.java:75)
+	at lsfusion.server.data.query.Query.executeSQLClasses(Query.java:587)
+	at lsfusion.server.data.query.Query.executeClasses(Query.java:583)
+	at lsfusion.server.data.query.Query.executeClasses(Query.java:536)
+	at lsfusion.server.data.query.build.QueryBuilder.executeClasses(QueryBuilder.java:145)
+	at lsfusion.server.logics.property.Property.readClasses(Property.java:1580)
+	at lsfusion.server.physics.exec.db.controller.manager.DBManager.lambda$14(DBManager.java:1086)
+	at lsfusion.server.physics.exec.db.controller.manager.DBManager$WeakFlushedCache.proceed(DBManager.java:1199)
+	at lsfusion.server.physics.exec.db.controller.manager.DBManager.readLazyValue(DBManager.java:1085)
+	at lsfusion.server.logics.navigator.controller.env.ChangesController.readLazyValue(ChangesController.java:35)
+	at lsfusion.server.logics.property.Property.readLazyClasses(Property.java:1532)
+	at lsfusion.server.logics.property.Property.readLazyClasses(Property.java:1528)
+	at lsfusion.server.logics.action.controller.context.ExecutionEnvironment.change(ExecutionEnvironment.java:52)
+	at lsfusion.server.logics.property.implement.PropertyMapImplement.change(PropertyMapImplement.java:98)
+	at lsfusion.server.logics.property.implement.PropertyMapImplement.change(PropertyMapImplement.java:90)
+	at lsfusion.server.logics.property.Property.change(Property.java:479)
+	at lsfusion.server.language.property.LP.change(LP.java:234)
+	at lsfusion.server.language.property.LP.change(LP.java:226)
+	at lsfusion.server.language.property.LP.change(LP.java:129)
+	at lsfusion.server.language.property.LP.change(LP.java:195)
+	at lsfusion.server.physics.admin.authentication.controller.remote.RemoteConnection.saveUserContext(RemoteConnection.java:140)
+	at lsfusion.server.physics.admin.authentication.controller.remote.RemoteConnection.initUser(RemoteConnection.java:123)
+	at lsfusion.server.physics.admin.authentication.controller.remote.RemoteConnection.initConnectionContext(RemoteConnection.java:113)
+	at lsfusion.server.logics.action.session.controller.remote.RemoteSession.initConnectionContext(RemoteSession.java:63)
+	at lsfusion.server.logics.controller.remote.RemoteLogics.runInNewSession(RemoteLogics.java:170)
+	at lsfusion.server.logics.controller.remote.RemoteLogics.exec_aroundBody16(RemoteLogics.java:197)
+	at lsfusion.server.logics.controller.remote.RemoteLogics$AjcClosure17.run(RemoteLogics.java:1)
+	at org.aspectj.runtime.reflect.JoinPointImpl.proceed(JoinPointImpl.java:149)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.processStackItem(ExecutionStackAspect.java:312)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.ajc$inlineAccessMethod$lsfusion_server_base_controller_stack_ExecutionStackAspect$lsfusion_server_base_controller_stack_ExecutionStackAspect$processStackItem(ExecutionStackAspect.java:1)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.execute(ExecutionStackAspect.java:224)
+	at lsfusion.server.logics.controller.remote.RemoteLogics.exec_aroundBody18(RemoteLogics.java:196)
+	at lsfusion.server.logics.controller.remote.RemoteLogics.exec_aroundBody19$advice(RemoteLogics.java:46)
+	at lsfusion.server.logics.controller.remote.RemoteLogics.exec_aroundBody20(RemoteLogics.java:1)
+	at lsfusion.server.logics.controller.remote.RemoteLogics.exec_aroundBody21$advice(RemoteLogics.java:37)
+	at lsfusion.server.logics.controller.remote.RemoteLogics.exec_aroundBody22(RemoteLogics.java:1)
+	at lsfusion.server.logics.controller.remote.RemoteLogics.exec_aroundBody23$advice(RemoteLogics.java:47)
+	at lsfusion.server.logics.controller.remote.RemoteLogics.exec(RemoteLogics.java:1)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.rmi/sun.rmi.server.UnicastServerRef.dispatch(UnicastServerRef.java:360)
+	at java.rmi/sun.rmi.transport.Transport$1.run(Transport.java:200)
+	at java.rmi/sun.rmi.transport.Transport$1.run(Transport.java:197)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:714)
+	at java.rmi/sun.rmi.transport.Transport.serviceCall(Transport.java:196)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport.handleMessages(TCPTransport.java:598)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run0(TCPTransport.java:844)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.lambda$run$0(TCPTransport.java:721)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run(TCPTransport.java:720)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+
+16 Apr 2026 16:29:57,511 ERROR SystemLogger - Error when logging exception: 
+lsfusion.server.data.sql.exception.SQLClosedException: CONNECTION_CLOSED org.postgresql.jdbc.PgConnection@3b35798 org.postgresql.util.PSQLException: Ошибка ввода/вывода при отправке бэкенду true
+	at lsfusion.server.data.sql.SQLSession.handle(SQLSession.java:1923)
+	at lsfusion.server.data.sql.SQLSession.handle(SQLSession.java:218)
+	at lsfusion.server.data.sql.SQLSession.handleAndPropagate(SQLSession.java:618)
+	at lsfusion.server.data.sql.SQLSession.startTransaction(SQLSession.java:609)
+	at lsfusion.server.logics.action.session.DataSession.startTransaction(DataSession.java:263)
+	at lsfusion.server.logics.action.session.DataSession.transactApply(DataSession.java:1724)
+	at lsfusion.server.logics.action.session.DataSession.apply_aroundBody16(DataSession.java:1971)
+	at lsfusion.server.logics.action.session.DataSession$AjcClosure17.run(DataSession.java:1)
+	at org.aspectj.runtime.reflect.JoinPointImpl.proceed(JoinPointImpl.java:149)
+	at lsfusion.server.base.controller.thread.AssertSynchronizedAspect.callMethod(AssertSynchronizedAspect.java:39)
+	at lsfusion.server.logics.action.session.DataSession.apply(DataSession.java:1924)
+	at lsfusion.server.logics.action.controller.context.ExecutionEnvironment.applyMessage(ExecutionEnvironment.java:102)
+	at lsfusion.server.logics.action.controller.context.ExecutionEnvironment.applyException(ExecutionEnvironment.java:94)
+	at lsfusion.server.logics.action.session.DataSession.applyException(DataSession.java:1613)
+	at lsfusion.server.physics.admin.monitor.SystemEventsLogicsModule.logException(SystemEventsLogicsModule.java:332)
+	at lsfusion.server.base.controller.remote.RemoteExceptionsAspect.logException(RemoteExceptionsAspect.java:65)
+	at lsfusion.server.logics.controller.remote.RemoteLogics.exec_aroundBody21$advice(RemoteLogics.java:48)
+	at lsfusion.server.logics.controller.remote.RemoteLogics.exec_aroundBody22(RemoteLogics.java:1)
+	at lsfusion.server.logics.controller.remote.RemoteLogics.exec_aroundBody23$advice(RemoteLogics.java:47)
+	at lsfusion.server.logics.controller.remote.RemoteLogics.exec(RemoteLogics.java:1)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.rmi/sun.rmi.server.UnicastServerRef.dispatch(UnicastServerRef.java:360)
+	at java.rmi/sun.rmi.transport.Transport$1.run(Transport.java:200)
+	at java.rmi/sun.rmi.transport.Transport$1.run(Transport.java:197)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:714)
+	at java.rmi/sun.rmi.transport.Transport.serviceCall(Transport.java:196)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport.handleMessages(TCPTransport.java:598)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run0(TCPTransport.java:844)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.lambda$run$0(TCPTransport.java:721)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run(TCPTransport.java:720)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+16 Apr 2026 16:29:57,708 ERROR LogicsModule - Внутренняя ошибка сервера: lsfusion.server.data.sql.exception.SQLClosedException CONNECTION_CLOSED org.postgresql.jdbc.PgConnection@19760439 org.postgresql.util.PSQLException: Ошибка ввода/вывода при отправке бэкенду false at '16.04.2026, 16:29' from 'null': 
+lsfusion.server.logics.controller.remote.RemoteLogics@44f743c3 - RMI execution(RemoteLogics.createNavigator(..))
+Выполнение запроса
+Обращение к SQL : SELECT t0.e0 AS jprop0,t1.System__CLASS_Authentication_customUser AS jprop1 FROM dumb LEFT JOIN w0sq0⁣ t0 ON 1=1 LEFT JOIN Authentication_customUser t1 ON t1.key0=t0.e0 WHERE 1=1
+	at lsfusion.server.data.sql.SQLSession.handle(SQLSession.java:1923)
+	at lsfusion.server.data.sql.SQLSession.executeCommand_aroundBody2(SQLSession.java:2015)
+	at lsfusion.server.data.sql.SQLSession$AjcClosure3.run(SQLSession.java:1)
+	at org.aspectj.runtime.reflect.JoinPointImpl.proceed(JoinPointImpl.java:149)
+	at lsfusion.server.physics.admin.profiler.sql.SQLAnalyzeAspect.executeCommand(SQLAnalyzeAspect.java:54)
+	at lsfusion.server.data.sql.SQLSession.executeCommand_aroundBody4(SQLSession.java:1939)
+	at lsfusion.server.data.sql.SQLSession$AjcClosure5.run(SQLSession.java:1)
+	at org.aspectj.runtime.reflect.JoinPointImpl.proceed(JoinPointImpl.java:149)
+	at lsfusion.server.physics.admin.log.sql.SQLSessionLoggerAspect.executeMethodAndLogTime(SQLSessionLoggerAspect.java:57)
+	at lsfusion.server.physics.admin.log.sql.SQLSessionLoggerAspect.executeSelect(SQLSessionLoggerAspect.java:30)
+	at lsfusion.server.data.sql.SQLSession.executeCommand_aroundBody6(SQLSession.java:1939)
+	at lsfusion.server.data.sql.SQLSession$AjcClosure7.run(SQLSession.java:1)
+	at org.aspectj.runtime.reflect.JoinPointImpl.proceed(JoinPointImpl.java:149)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.processStackItem(ExecutionStackAspect.java:312)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.ajc$inlineAccessMethod$lsfusion_server_base_controller_stack_ExecutionStackAspect$lsfusion_server_base_controller_stack_ExecutionStackAspect$processStackItem(ExecutionStackAspect.java:1)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.callTwinMethod(ExecutionStackAspect.java:205)
+	at lsfusion.server.data.sql.SQLSession.executeCommand(SQLSession.java:1939)
+	at lsfusion.server.data.sql.SQLSession.executeCommand(SQLSession.java:2274)
+	at lsfusion.server.data.sql.SQLSession.executeSelect(SQLSession.java:2240)
+	at lsfusion.server.data.sql.SQLSession.executeSelect(SQLSession.java:2236)
+	at lsfusion.server.data.query.compile.CompiledQuery.execute(CompiledQuery.java:2082)
+	at lsfusion.server.data.query.IQuery.executeSQL_aroundBody0(IQuery.java:87)
+	at lsfusion.server.data.query.IQuery$AjcClosure1.run(IQuery.java:1)
+	at org.aspectj.runtime.reflect.JoinPointImpl.proceed(JoinPointImpl.java:149)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.processStackItem(ExecutionStackAspect.java:312)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.ajc$inlineAccessMethod$lsfusion_server_base_controller_stack_ExecutionStackAspect$lsfusion_server_base_controller_stack_ExecutionStackAspect$processStackItem(ExecutionStackAspect.java:1)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.callTwinMethod(ExecutionStackAspect.java:205)
+	at lsfusion.server.data.query.IQuery.executeSQL(IQuery.java:80)
+	at lsfusion.server.data.query.IQuery.executeSQL(IQuery.java:75)
+	at lsfusion.server.data.query.Query.executeSQLClasses(Query.java:587)
+	at lsfusion.server.data.query.Query.executeClasses(Query.java:583)
+	at lsfusion.server.data.query.Query.executeClasses(Query.java:536)
+	at lsfusion.server.data.query.build.QueryBuilder.executeClasses(QueryBuilder.java:145)
+	at lsfusion.server.logics.property.Property.readClasses(Property.java:1580)
+	at lsfusion.server.logics.property.Property.readClasses(Property.java:1573)
+	at lsfusion.server.logics.property.Property.readClasses(Property.java:1640)
+	at lsfusion.server.language.property.LP.readClasses(LP.java:112)
+	at lsfusion.server.language.property.LP.readClasses(LP.java:124)
+	at lsfusion.server.physics.admin.authentication.security.controller.manager.SecurityManager.readUser(SecurityManager.java:242)
+	at lsfusion.server.physics.admin.authentication.security.controller.manager.SecurityManager.getUser(SecurityManager.java:248)
+	at lsfusion.server.physics.admin.authentication.controller.remote.RemoteConnection.initUser(RemoteConnection.java:121)
+	at lsfusion.server.physics.admin.authentication.controller.remote.RemoteConnection.initConnectionContext(RemoteConnection.java:113)
+	at lsfusion.server.logics.navigator.controller.remote.RemoteNavigator.initConnectionContext(RemoteNavigator.java:172)
+	at lsfusion.server.physics.admin.authentication.controller.remote.RemoteConnection.<init>(RemoteConnection.java:90)
+	at lsfusion.server.logics.navigator.controller.remote.RemoteNavigator.<init>(RemoteNavigator.java:131)
+	at lsfusion.server.logics.navigator.controller.manager.NavigatorsManager.createNavigator(NavigatorsManager.java:132)
+	at lsfusion.server.logics.controller.remote.RemoteLogics.createNavigator_aroundBody0(RemoteLogics.java:126)
+	at lsfusion.server.logics.controller.remote.RemoteLogics$AjcClosure1.run(RemoteLogics.java:1)
+	at org.aspectj.runtime.reflect.JoinPointImpl.proceed(JoinPointImpl.java:149)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.processStackItem(ExecutionStackAspect.java:312)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.ajc$inlineAccessMethod$lsfusion_server_base_controller_stack_ExecutionStackAspect$lsfusion_server_base_controller_stack_ExecutionStackAspect$processStackItem(ExecutionStackAspect.java:1)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.execute(ExecutionStackAspect.java:224)
+	at lsfusion.server.logics.controller.remote.RemoteLogics.createNavigator_aroundBody2(RemoteLogics.java:122)
+	at lsfusion.server.logics.controller.remote.RemoteLogics.createNavigator_aroundBody3$advice(RemoteLogics.java:46)
+	at lsfusion.server.logics.controller.remote.RemoteLogics.createNavigator_aroundBody4(RemoteLogics.java:1)
+	at lsfusion.server.logics.controller.remote.RemoteLogics.createNavigator_aroundBody5$advice(RemoteLogics.java:37)
+	at lsfusion.server.logics.controller.remote.RemoteLogics.createNavigator_aroundBody6(RemoteLogics.java:1)
+	at lsfusion.server.logics.controller.remote.RemoteLogics.createNavigator_aroundBody7$advice(RemoteLogics.java:47)
+	at lsfusion.server.logics.controller.remote.RemoteLogics.createNavigator(RemoteLogics.java:1)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.rmi/sun.rmi.server.UnicastServerRef.dispatch(UnicastServerRef.java:360)
+	at java.rmi/sun.rmi.transport.Transport$1.run(Transport.java:200)
+	at java.rmi/sun.rmi.transport.Transport$1.run(Transport.java:197)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:714)
+	at java.rmi/sun.rmi.transport.Transport.serviceCall(Transport.java:196)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport.handleMessages(TCPTransport.java:598)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run0(TCPTransport.java:844)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.lambda$run$0(TCPTransport.java:721)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run(TCPTransport.java:720)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+
+16 Apr 2026 16:29:57,718 ERROR SystemLogger - Error when logging exception: 
+lsfusion.server.data.sql.exception.SQLClosedException: CONNECTION_CLOSED org.postgresql.jdbc.PgConnection@52a64732 org.postgresql.util.PSQLException: Ошибка ввода/вывода при отправке бэкенду true
+	at lsfusion.server.data.sql.SQLSession.handle(SQLSession.java:1923)
+	at lsfusion.server.data.sql.SQLSession.handle(SQLSession.java:218)
+	at lsfusion.server.data.sql.SQLSession.handleAndPropagate(SQLSession.java:618)
+	at lsfusion.server.data.sql.SQLSession.startTransaction(SQLSession.java:609)
+	at lsfusion.server.logics.action.session.DataSession.startTransaction(DataSession.java:263)
+	at lsfusion.server.logics.action.session.DataSession.transactApply(DataSession.java:1724)
+	at lsfusion.server.logics.action.session.DataSession.apply_aroundBody16(DataSession.java:1971)
+	at lsfusion.server.logics.action.session.DataSession$AjcClosure17.run(DataSession.java:1)
+	at org.aspectj.runtime.reflect.JoinPointImpl.proceed(JoinPointImpl.java:149)
+	at lsfusion.server.base.controller.thread.AssertSynchronizedAspect.callMethod(AssertSynchronizedAspect.java:39)
+	at lsfusion.server.logics.action.session.DataSession.apply(DataSession.java:1924)
+	at lsfusion.server.logics.action.controller.context.ExecutionEnvironment.applyMessage(ExecutionEnvironment.java:102)
+	at lsfusion.server.logics.action.controller.context.ExecutionEnvironment.applyException(ExecutionEnvironment.java:94)
+	at lsfusion.server.logics.action.session.DataSession.applyException(DataSession.java:1613)
+	at lsfusion.server.physics.admin.monitor.SystemEventsLogicsModule.logException(SystemEventsLogicsModule.java:332)
+	at lsfusion.server.base.controller.remote.RemoteExceptionsAspect.logException(RemoteExceptionsAspect.java:65)
+	at lsfusion.server.logics.controller.remote.RemoteLogics.createNavigator_aroundBody5$advice(RemoteLogics.java:48)
+	at lsfusion.server.logics.controller.remote.RemoteLogics.createNavigator_aroundBody6(RemoteLogics.java:1)
+	at lsfusion.server.logics.controller.remote.RemoteLogics.createNavigator_aroundBody7$advice(RemoteLogics.java:47)
+	at lsfusion.server.logics.controller.remote.RemoteLogics.createNavigator(RemoteLogics.java:1)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.rmi/sun.rmi.server.UnicastServerRef.dispatch(UnicastServerRef.java:360)
+	at java.rmi/sun.rmi.transport.Transport$1.run(Transport.java:200)
+	at java.rmi/sun.rmi.transport.Transport$1.run(Transport.java:197)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:714)
+	at java.rmi/sun.rmi.transport.Transport.serviceCall(Transport.java:196)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport.handleMessages(TCPTransport.java:598)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run0(TCPTransport.java:844)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.lambda$run$0(TCPTransport.java:721)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run(TCPTransport.java:720)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+16 Apr 2026 16:30:04,264 ERROR LogicsModule - Внутренняя ошибка сервера: lsfusion.server.data.sql.exception.SQLClosedException CONNECTION_CLOSED org.postgresql.jdbc.PgConnection@7183f9e8 org.postgresql.util.PSQLException: Ошибка ввода/вывода при отправке бэкенду false at '16.04.2026, 16:30' from 'null': 
+lsfusion.server.logics.controller.remote.RemoteLogics@44f743c3 - RMI execution(RemoteLogics.createNavigator(..))
+Выполнение запроса
+Обращение к SQL : SELECT t0.e0 AS jprop0,t1.System__CLASS_Authentication_customUser AS jprop1 FROM dumb LEFT JOIN w0sq0⁣ t0 ON 1=1 LEFT JOIN Authentication_customUser t1 ON t1.key0=t0.e0 WHERE 1=1
+	at lsfusion.server.data.sql.SQLSession.handle(SQLSession.java:1923)
+	at lsfusion.server.data.sql.SQLSession.executeCommand_aroundBody2(SQLSession.java:2015)
+	at lsfusion.server.data.sql.SQLSession$AjcClosure3.run(SQLSession.java:1)
+	at org.aspectj.runtime.reflect.JoinPointImpl.proceed(JoinPointImpl.java:149)
+	at lsfusion.server.physics.admin.profiler.sql.SQLAnalyzeAspect.executeCommand(SQLAnalyzeAspect.java:54)
+	at lsfusion.server.data.sql.SQLSession.executeCommand_aroundBody4(SQLSession.java:1939)
+	at lsfusion.server.data.sql.SQLSession$AjcClosure5.run(SQLSession.java:1)
+	at org.aspectj.runtime.reflect.JoinPointImpl.proceed(JoinPointImpl.java:149)
+	at lsfusion.server.physics.admin.log.sql.SQLSessionLoggerAspect.executeMethodAndLogTime(SQLSessionLoggerAspect.java:57)
+	at lsfusion.server.physics.admin.log.sql.SQLSessionLoggerAspect.executeSelect(SQLSessionLoggerAspect.java:30)
+	at lsfusion.server.data.sql.SQLSession.executeCommand_aroundBody6(SQLSession.java:1939)
+	at lsfusion.server.data.sql.SQLSession$AjcClosure7.run(SQLSession.java:1)
+	at org.aspectj.runtime.reflect.JoinPointImpl.proceed(JoinPointImpl.java:149)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.processStackItem(ExecutionStackAspect.java:312)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.ajc$inlineAccessMethod$lsfusion_server_base_controller_stack_ExecutionStackAspect$lsfusion_server_base_controller_stack_ExecutionStackAspect$processStackItem(ExecutionStackAspect.java:1)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.callTwinMethod(ExecutionStackAspect.java:205)
+	at lsfusion.server.data.sql.SQLSession.executeCommand(SQLSession.java:1939)
+	at lsfusion.server.data.sql.SQLSession.executeCommand(SQLSession.java:2274)
+	at lsfusion.server.data.sql.SQLSession.executeSelect(SQLSession.java:2240)
+	at lsfusion.server.data.sql.SQLSession.executeSelect(SQLSession.java:2236)
+	at lsfusion.server.data.query.compile.CompiledQuery.execute(CompiledQuery.java:2082)
+	at lsfusion.server.data.query.IQuery.executeSQL_aroundBody0(IQuery.java:87)
+	at lsfusion.server.data.query.IQuery$AjcClosure1.run(IQuery.java:1)
+	at org.aspectj.runtime.reflect.JoinPointImpl.proceed(JoinPointImpl.java:149)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.processStackItem(ExecutionStackAspect.java:312)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.ajc$inlineAccessMethod$lsfusion_server_base_controller_stack_ExecutionStackAspect$lsfusion_server_base_controller_stack_ExecutionStackAspect$processStackItem(ExecutionStackAspect.java:1)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.callTwinMethod(ExecutionStackAspect.java:205)
+	at lsfusion.server.data.query.IQuery.executeSQL(IQuery.java:80)
+	at lsfusion.server.data.query.IQuery.executeSQL(IQuery.java:75)
+	at lsfusion.server.data.query.Query.executeSQLClasses(Query.java:587)
+	at lsfusion.server.data.query.Query.executeClasses(Query.java:583)
+	at lsfusion.server.data.query.Query.executeClasses(Query.java:536)
+	at lsfusion.server.data.query.build.QueryBuilder.executeClasses(QueryBuilder.java:145)
+	at lsfusion.server.logics.property.Property.readClasses(Property.java:1580)
+	at lsfusion.server.logics.property.Property.readClasses(Property.java:1573)
+	at lsfusion.server.logics.property.Property.readClasses(Property.java:1640)
+	at lsfusion.server.language.property.LP.readClasses(LP.java:112)
+	at lsfusion.server.language.property.LP.readClasses(LP.java:124)
+	at lsfusion.server.physics.admin.authentication.security.controller.manager.SecurityManager.readUser(SecurityManager.java:242)
+	at lsfusion.server.physics.admin.authentication.security.controller.manager.SecurityManager.getUser(SecurityManager.java:248)
+	at lsfusion.server.physics.admin.authentication.controller.remote.RemoteConnection.initUser(RemoteConnection.java:121)
+	at lsfusion.server.physics.admin.authentication.controller.remote.RemoteConnection.initConnectionContext(RemoteConnection.java:113)
+	at lsfusion.server.logics.navigator.controller.remote.RemoteNavigator.initConnectionContext(RemoteNavigator.java:172)
+	at lsfusion.server.physics.admin.authentication.controller.remote.RemoteConnection.<init>(RemoteConnection.java:90)
+	at lsfusion.server.logics.navigator.controller.remote.RemoteNavigator.<init>(RemoteNavigator.java:131)
+	at lsfusion.server.logics.navigator.controller.manager.NavigatorsManager.createNavigator(NavigatorsManager.java:132)
+	at lsfusion.server.logics.controller.remote.RemoteLogics.createNavigator_aroundBody0(RemoteLogics.java:126)
+	at lsfusion.server.logics.controller.remote.RemoteLogics$AjcClosure1.run(RemoteLogics.java:1)
+	at org.aspectj.runtime.reflect.JoinPointImpl.proceed(JoinPointImpl.java:149)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.processStackItem(ExecutionStackAspect.java:312)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.ajc$inlineAccessMethod$lsfusion_server_base_controller_stack_ExecutionStackAspect$lsfusion_server_base_controller_stack_ExecutionStackAspect$processStackItem(ExecutionStackAspect.java:1)
+	at lsfusion.server.base.controller.stack.ExecutionStackAspect.execute(ExecutionStackAspect.java:224)
+	at lsfusion.server.logics.controller.remote.RemoteLogics.createNavigator_aroundBody2(RemoteLogics.java:122)
+	at lsfusion.server.logics.controller.remote.RemoteLogics.createNavigator_aroundBody3$advice(RemoteLogics.java:46)
+	at lsfusion.server.logics.controller.remote.RemoteLogics.createNavigator_aroundBody4(RemoteLogics.java:1)
+	at lsfusion.server.logics.controller.remote.RemoteLogics.createNavigator_aroundBody5$advice(RemoteLogics.java:37)
+	at lsfusion.server.logics.controller.remote.RemoteLogics.createNavigator_aroundBody6(RemoteLogics.java:1)
+	at lsfusion.server.logics.controller.remote.RemoteLogics.createNavigator_aroundBody7$advice(RemoteLogics.java:47)
+	at lsfusion.server.logics.controller.remote.RemoteLogics.createNavigator(RemoteLogics.java:1)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.rmi/sun.rmi.server.UnicastServerRef.dispatch(UnicastServerRef.java:360)
+	at java.rmi/sun.rmi.transport.Transport$1.run(Transport.java:200)
+	at java.rmi/sun.rmi.transport.Transport$1.run(Transport.java:197)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:714)
+	at java.rmi/sun.rmi.transport.Transport.serviceCall(Transport.java:196)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport.handleMessages(TCPTransport.java:598)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run0(TCPTransport.java:844)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.lambda$run$0(TCPTransport.java:721)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at java.rmi/sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run(TCPTransport.java:720)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+
+16 Apr 2026 16:33:55,526 ERROR SystemLogger - Failed to initialize tess4j. Add tess4j jar to classpath.
+16 Apr 2026 17:06:02,586 ERROR StartLogger - Exception while starting logics instance: [error]:
+	Question:19:36 mismatched input '(' expecting ';'
+[error]:
+	Question:23:5 no viable alternative at input 'PROPERTIES'
+[error]:
+	Question:30:36 mismatched input '(' expecting ';'
+
+16 Apr 2026 17:08:12,082 ERROR StartLogger - Exception while starting logics instance: [error]:
+	PerformanceReport:29:23 property 'student' is not found
+Subsequent errors (if any) could not be found.
+16 Apr 2026 17:35:13,108 ERROR StartLogger - Exception while starting logics instance: [error]:
+	TestingSession:37:5 mismatched input 'EDIT' expecting '}'
+[error]:
+	TestingSession:38:1 missing EOF at '}'
+
+16 Apr 2026 17:36:27,534 ERROR StartLogger - Exception while starting logics instance: [error]:
+	TestingSession:37:5 mismatched input 'EDIT' expecting '}'
+[error]:
+	TestingSession:38:1 missing EOF at '}'
+
+16 Apr 2026 17:36:48,119 ERROR StartLogger - Exception while starting logics instance: [error]:
+	TestingSession:31:5 mismatched input 'EDIT' expecting '}'
+[error]:
+	TestingSession:32:1 missing EOF at '}'
+
+16 Apr 2026 17:37:33,974 ERROR StartLogger - Exception while starting logics instance: [error]:
+	TestingSession:31:5 mismatched input 'EDIT' expecting '}'
+[error]:
+	TestingSession:32:1 missing EOF at '}'
+
+16 Apr 2026 17:38:04,467 ERROR StartLogger - Exception while starting logics instance: [error]:
+	TestingSession:30:5 mismatched input 'EDIT' expecting '}'
+[error]:
+	TestingSession:31:1 missing EOF at '}'
+
+16 Apr 2026 17:39:01,200 ERROR StartLogger - Exception while starting logics instance: [error]:
+	TestingSession:31:5 mismatched input 'EDIT' expecting '}'
+[error]:
+	TestingSession:32:1 missing EOF at '}'
+
+16 Apr 2026 17:40:13,044 ERROR StartLogger - Exception while starting logics instance: [error]:
+	TestingSession:31:5 mismatched input 'EDIT' expecting '}'
+[error]:
+	TestingSession:31:20 mismatched input 'OBJECT' expecting ';'
+[error]:
+	TestingSession:32:1 missing EOF at '}'
+
+16 Apr 2026 17:41:08,602 ERROR StartLogger - Exception while starting logics instance: [error]:
+	TestingSession:45:18 mismatched input '=' expecting ')'
+[error]:
+	TestingSession:45:43 no viable alternative at input ')'
+
+16 Apr 2026 17:41:47,957 ERROR StartLogger - Exception while starting logics instance: [error]:
+	TestingSession:44:18 mismatched input '=' expecting ')'
+[error]:
+	TestingSession:44:43 no viable alternative at input ')'
+
+16 Apr 2026 17:42:51,452 ERROR StartLogger - Exception while starting logics instance: [error]:
+	TestingSession:48:34 mismatched input '(' expecting ';'
+
+16 Apr 2026 17:43:06,676 ERROR StartLogger - Exception while starting logics instance: [error]:
+	TestingSession:51:34 mismatched input '(' expecting ';'
+
+16 Apr 2026 17:43:52,635 ERROR SystemLogger - Failed to initialize tess4j. Add tess4j jar to classpath.
+16 Apr 2026 17:55:13,365 ERROR StartLogger - Exception while starting logics instance: [error]:
+	Student:13:50 no viable alternative at input ')'
+
+16 Apr 2026 17:55:13,378 ERROR StartLogger - Exception while starting logics instance: [error]:
+	Discipline:11:54 no viable alternative at input ')'
+
+16 Apr 2026 17:56:38,929 ERROR StartLogger - Exception while starting logics instance: [error]:
+	Student:13:44 property or action 'id[Student.Student]' is not found
+Subsequent errors (if any) could not be found.
+16 Apr 2026 17:56:38,949 ERROR StartLogger - Exception while starting logics instance: [error]:
+	Discipline:11:48 property or action 'id[Discipline.Discipline]' is not found
+Subsequent errors (if any) could not be found.
+16 Apr 2026 17:58:21,707 ERROR SystemLogger - Failed to initialize tess4j. Add tess4j jar to classpath.
+16 Apr 2026 18:11:30,976 ERROR StartLogger - Exception while starting logics instance: [error]:
+	Question:31:34 mismatched input '(' expecting ';'
+[error]:
+	Question:34:5 no viable alternative at input 'PROPERTIES'
+[error]:
+	Question:48:34 mismatched input '(' expecting ';'
+
+16 Apr 2026 18:12:56,634 ERROR SystemLogger - Failed to initialize tess4j. Add tess4j jar to classpath.
+16 Apr 2026 18:28:45,830 ERROR SystemLogger - Failed to initialize tess4j. Add tess4j jar to classpath.
+16 Apr 2026 18:50:12,431 ERROR StartLogger - Exception while starting logics instance: [error]:
+	TestingSession:54:18 mismatched input '=' expecting ')'
+[error]:
+	TestingSession:54:43 no viable alternative at input ')'
+
+16 Apr 2026 18:51:33,653 ERROR StartLogger - Exception while starting logics instance: [error]:
+	TestingSession:58:34 mismatched input '(' expecting ';'
+
+16 Apr 2026 19:04:30,991 ERROR StartLogger - Exception while starting logics instance: [error]:
+	TestingSession:37:29 parameter 'ts' is not found
+Subsequent errors (if any) could not be found.
+16 Apr 2026 19:05:52,187 ERROR StartLogger - Exception while starting logics instance: [error]:
+	TestingSession:37:29 parameter 'ts' is not found
+Subsequent errors (if any) could not be found.
+16 Apr 2026 19:07:41,460 ERROR StartLogger - Exception while starting logics instance: [error]:
+	TestingSession:34:29 parameter 'ts' is not found
+Subsequent errors (if any) could not be found.
+16 Apr 2026 19:08:25,487 ERROR StartLogger - Exception while starting logics instance: [error]:
+	TestingSession:34:29 parameter 'ts' is not found
+Subsequent errors (if any) could not be found.
+16 Apr 2026 19:09:40,846 ERROR StartLogger - Exception while starting logics instance: [error]:
+	TestingSession:34:29 parameter 'ts' is not found
+Subsequent errors (if any) could not be found.
+16 Apr 2026 19:10:46,432 ERROR SystemLogger - Failed to initialize tess4j. Add tess4j jar to classpath.
+16 Apr 2026 19:15:32,401 ERROR StartLogger - Exception while starting logics instance: [error]:
+	TestingSession:24:19 no viable alternative at input 'GROUP'
+[error]:
+	TestingSession:24:59 mismatched input '==' expecting ';'
+[error]:
+	TestingSession:24:64 mismatched input ';' expecting '('
+[error]:
+	TestingSession:25:21 no viable alternative at input 'GROUP'
+[error]:
+	TestingSession:25:61 mismatched input '==' expecting ';'
+[error]:
+	TestingSession:25:67 mismatched input 'AND' expecting '('
+
+16 Apr 2026 19:17:54,778 ERROR StartLogger - Exception while starting logics instance: [error]:
+	TestingSession:24:19 no viable alternative at input '0'
+[error]:
+	TestingSession:25:21 no viable alternative at input '0'
+[error]:
+	TestingSession:28:15 mismatched input '<-' expecting '('
+[error]:
+	TestingSession:28:24 mismatched input '+' expecting '('
+[error]:
+	TestingSession:30:21 mismatched input '<-' expecting '('
+[error]:
+	TestingSession:30:32 mismatched input '+' expecting '('
+
+16 Apr 2026 20:39:34,812 ERROR SystemLogger - Failed to initialize tess4j. Add tess4j jar to classpath.
+16 Apr 2026 22:18:55,968 ERROR SystemLogger - Failed to initialize tess4j. Add tess4j jar to classpath.
+16 Apr 2026 22:34:41,599 ERROR StartLogger - Exception while starting logics instance: [error]:
+	TestingSession:51:19 mismatched input 'OBJECT' expecting ';'
+[error]:
+	TestingSession:51:29 mismatched input '=' expecting '('
+[error]:
+	TestingSession:51:34 mismatched input 'DOCKED' expecting '('
+
+16 Apr 2026 22:34:52,961 ERROR StartLogger - Exception while starting logics instance: [error]:
+	TestingSession:51:19 mismatched input 'OBJECT' expecting ';'
+[error]:
+	TestingSession:51:29 mismatched input '=' expecting '('
+[error]:
+	TestingSession:51:34 mismatched input 'DOCKED' expecting '('
+
+16 Apr 2026 22:35:05,835 ERROR StartLogger - Exception while starting logics instance: [error]:
+	TestingSession:51:19 mismatched input 'OBJECT' expecting ';'
+[error]:
+	TestingSession:51:29 mismatched input '=' expecting '('
+[error]:
+	TestingSession:51:34 mismatched input 'DOCKED' expecting '('
+
+16 Apr 2026 22:35:30,362 ERROR StartLogger - Exception while starting logics instance: [error]:
+	TestingSession:51:19 mismatched input 'OBJECT' expecting ';'
+[error]:
+	TestingSession:51:29 mismatched input '=' expecting '('
+[error]:
+	TestingSession:51:34 mismatched input 'DOCKED' expecting '('
+
+16 Apr 2026 22:36:12,475 ERROR StartLogger - Exception while starting logics instance: [error]:
+	TestingSession:51:19 mismatched input 'OBJECT' expecting ';'
+[error]:
+	TestingSession:51:29 mismatched input '=' expecting '('
+[error]:
+	TestingSession:51:34 mismatched input 'DOCKED' expecting '('
+
+16 Apr 2026 22:36:33,650 ERROR StartLogger - Exception while starting logics instance: [error]:
+	TestingSession:51:19 mismatched input 'OBJECT' expecting ';'
+[error]:
+	TestingSession:51:29 mismatched input '=' expecting '('
+[error]:
+	TestingSession:51:34 mismatched input 'DOCKED' expecting '('
+
+16 Apr 2026 22:36:47,935 ERROR StartLogger - Exception while starting logics instance: [error]:
+	TestingSession:51:19 mismatched input 'OBJECT' expecting ';'
+[error]:
+	TestingSession:51:29 mismatched input '=' expecting '('
+[error]:
+	TestingSession:51:34 mismatched input 'DOCKED' expecting '('
+
+16 Apr 2026 22:39:47,179 ERROR SystemLogger - Failed to initialize tess4j. Add tess4j jar to classpath.
+16 Apr 2026 22:51:59,419 ERROR SystemLogger - Failed to initialize tess4j. Add tess4j jar to classpath.
+16 Apr 2026 22:54:56,926 ERROR SystemLogger - Failed to initialize tess4j. Add tess4j jar to classpath.
+16 Apr 2026 22:59:33,973 ERROR SystemLogger - Failed to initialize tess4j. Add tess4j jar to classpath.
+16 Apr 2026 23:04:50,338 ERROR SystemLogger - Failed to initialize tess4j. Add tess4j jar to classpath.

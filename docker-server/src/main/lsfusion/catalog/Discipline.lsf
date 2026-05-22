@@ -1,0 +1,45 @@
+MODULE Discipline;
+
+REQUIRE AppMenu;
+
+CLASS Discipline 'Дисциплина';
+
+disciplineCode 'Код' = DATA STRING[20] (Discipline) NONULL;
+name 'Наименование' = DATA STRING[100] (Discipline) NONULL;
+
+WHEN SET (Discipline d IS Discipline) AND NOT disciplineCode(d) DO
+    disciplineCode(d) <- 'DISC';
+
+FORM view 'Дисциплины'
+    OBJECTS d = Discipline
+    PROPERTIES(d) disciplineCode, name
+    PROPERTIES(d) NEWSESSION NEW, EDIT, DELETE
+;
+
+// Default list form for Discipline class pickers
+FORM Discipline 'Дисциплины (выбор)'
+    OBJECTS d = Discipline
+    PROPERTIES(d) READONLY disciplineCode, name
+    
+    LIST Discipline OBJECT d
+;
+
+FORM edit 'Дисциплина'
+    OBJECTS d = Discipline PANEL
+    PROPERTIES(d) disciplineCode, name
+    EDIT Discipline OBJECT d
+;
+
+EXTEND FORM view
+    EDIT Discipline OBJECT d
+;
+
+EXTEND FORM Discipline
+    EDIT Discipline OBJECT d
+;
+
+NAVIGATOR {
+    catalogs {
+        NEW FORM view;
+    }
+}
